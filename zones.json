@@ -682,5 +682,41 @@
     "name": "Wordle",
     "cover": "{ASSET_URL}/112/cover.png",
     "url": "{ASSET_URL}/112/index.html"
+  },
+  {
+    "id": 113,
+    "name": "Ruffle",
+    "cover": "{ASSET_URL}/113/cover.png",
+    "url": "{ASSET_URL}/113/index.html"
+  },
+  {
+    "id": 114,
+    "name": "2048",
+    "cover": "{ASSET_URL}/114/cover.png",
+    "url": "{ASSET_URL}/114/index.html"
+  },
+  {
+    "id": 115,
+    "name": "8 Ball Pool",
+    "cover": "{ASSET_URL}/115/cover.png",
+    "url": "{ASSET_URL}/115/index.html"
+  },
+  {
+    "id": 116,
+    "name": "Offroad Mountain Bike",
+    "cover": "{ASSET_URL}/116/cover.png",
+    "url": "{ASSET_URL}/116/index.html"
+  },
+  {
+    "id": 117,
+    "name": "Space Waves",
+    "cover": "{ASSET_URL}/117/logo.png",
+    "url": "{ASSET_URL}/117/index.html"
+  },
+  {
+    "id": 118,
+    "name": "Solar Smash",
+    "cover": "{ASSET_URL}/118/cover.png",
+    "url": "{ASSET_URL}/118/index.html"
   }
 ]
