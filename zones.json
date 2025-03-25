@@ -1,5 +1,11 @@
 [
   {
+    "id": -1,
+    "name": "[!] SUGGEST GAMES .gg/NAFw4ykZ7n",
+    "cover": "{ASSET_URL}/dc.png",
+    "url": "https://discord.gg/NAFw4ykZ7n"
+  },
+  {
     "id": 0,
     "name": "Bowmasters",
     "cover": "{ASSET_URL}/0/cover.png",
@@ -340,5 +346,341 @@
     "name": "Vex X3M 2",
     "cover": "{ASSET_URL}/56/cover.png",
     "url": "{ASSET_URL}/56/index.html"
+  },
+  {
+    "id": 57,
+    "name": "Monkey Mart",
+    "cover": "{ASSET_URL}/57/cover.png",
+    "url": "{ASSET_URL}/57/index.html"
+  },
+  {
+    "id": 58,
+    "name": "1v1.LoL",
+    "cover": "{ASSET_URL}/58/cover.png",
+    "url": "{ASSET_URL}/58/index.html"
+  },
+  {
+    "id": 59,
+    "name": "A Dance of Fire and Ice",
+    "cover": "{ASSET_URL}/59/cover.png",
+    "url": "{ASSET_URL}/59/index.html"
+  },
+  {
+    "id": 60,
+    "name": "Achievement Unlocked",
+    "cover": "{ASSET_URL}/60/cover.png",
+    "url": "{ASSET_URL}/60/index.html"
+  },
+  {
+    "id": 61,
+    "name": "Achievement Unlocked 2",
+    "cover": "{ASSET_URL}/61/cover.png",
+    "url": "{ASSET_URL}/61/index.html"
+  },
+  {
+    "id": 62,
+    "name": "Achievement Unlocked 3",
+    "cover": "{ASSET_URL}/62/cover.png",
+    "url": "{ASSET_URL}/62/index.html"
+  },
+  {
+    "id": 63,
+    "name": "Angry Birds",
+    "cover": "{ASSET_URL}/63/cover.png",
+    "url": "{ASSET_URL}/63/index.html"
+  },
+  {
+    "id": 64,
+    "name": "Backrooms",
+    "cover": "{ASSET_URL}/64/cover.png",
+    "url": "{ASSET_URL}/64/index.html"
+  },
+  {
+    "id": 65,
+    "name": "Baldi's Basics",
+    "cover": "{ASSET_URL}/65/cover.png",
+    "url": "{ASSET_URL}/65/index.html"
+  },
+  {
+    "id": 66,
+    "name": "Basket Random",
+    "cover": "{ASSET_URL}/66/cover.png",
+    "url": "{ASSET_URL}/66/index.html"
+  },
+  {
+    "id": 67,
+    "name": "Big Tower Tiny Square",
+    "cover": "{ASSET_URL}/67/cover.png",
+    "url": "{ASSET_URL}/67/index.html"
+  },
+  {
+    "id": 68,
+    "name": "Big NEON Tower Tiny Square",
+    "cover": "{ASSET_URL}/68/cover.png",
+    "url": "{ASSET_URL}/68/index.html"
+  },
+  {
+    "id": 69,
+    "name": "Big ICE Tower Tiny Square",
+    "cover": "{ASSET_URL}/69/cover.png",
+    "url": "{ASSET_URL}/69/index.html"
+  },
+  {
+    "id": 70,
+    "name": "BitLife",
+    "cover": "{ASSET_URL}/70/cover.png",
+    "url": "{ASSET_URL}/70/index.html"
+  },
+  {
+    "id": 71,
+    "name": "Bloons TD",
+    "cover": "{ASSET_URL}/71/cover.png",
+    "url": "{ASSET_URL}/71/index.html"
+  },
+  {
+    "id": 72,
+    "name": "Bloons TD 2",
+    "cover": "{ASSET_URL}/72/cover.png",
+    "url": "{ASSET_URL}/72/index.html"
+  },
+  {
+    "id": 73,
+    "name": "Bloons TD 3",
+    "cover": "{ASSET_URL}/73/cover.png",
+    "url": "{ASSET_URL}/73/index.html"
+  },
+  {
+    "id": 74,
+    "name": "Bloons TD 4",
+    "cover": "{ASSET_URL}/74/cover.png",
+    "url": "{ASSET_URL}/74/index.html"
+  },
+  {
+    "id": 75,
+    "name": "Bloons TD 5",
+    "cover": "{ASSET_URL}/75/cover.png",
+    "url": "{ASSET_URL}/75/index.html"
+  },
+  {
+    "id": 76,
+    "name": "Bob The Robber 2",
+    "cover": "{ASSET_URL}/76/cover.png",
+    "url": "{ASSET_URL}/76/index.html"
+  },
+  {
+    "id": 77,
+    "name": "Boxing Random",
+    "cover": "{ASSET_URL}/77/cover.png",
+    "url": "{ASSET_URL}/77/index.html"
+  },
+  {
+    "id": 78,
+    "name": "Burrito Bison",
+    "cover": "{ASSET_URL}/78/cover.png",
+    "url": "{ASSET_URL}/78/index.html"
+  },
+  {
+    "id": 79,
+    "name": "Cannon Basketball",
+    "cover": "{ASSET_URL}/79/cover.png",
+    "url": "{ASSET_URL}/79/index.html"
+  },
+  {
+    "id": 80,
+    "name": "Cannon Basketball 2",
+    "cover": "{ASSET_URL}/80/cover.png",
+    "url": "{ASSET_URL}/80/index.html"
+  },
+  {
+    "id": 81,
+    "name": "Cluster Rush",
+    "cover": "{ASSET_URL}/81/cover.png",
+    "url": "{ASSET_URL}/81/index.html"
+  },
+  {
+    "id": 82,
+    "name": "Cookie Clicker",
+    "cover": "{ASSET_URL}/82/cover.png",
+    "url": "{ASSET_URL}/82/index.html"
+  },
+  {
+    "id": 83,
+    "name": "Coreball",
+    "cover": "{ASSET_URL}/83/cover.png",
+    "url": "{ASSET_URL}/83/index.html"
+  },
+  {
+    "id": 84,
+    "name": "Cubefield",
+    "cover": "{ASSET_URL}/84/cover.png",
+    "url": "{ASSET_URL}/84/index.html"
+  },
+  {
+    "id": 85,
+    "name": "Cut the Rope",
+    "cover": "{ASSET_URL}/85/cover.png",
+    "url": "{ASSET_URL}/85/index.html"
+  },
+  {
+    "id": 86,
+    "name": "Draw Climber",
+    "cover": "{ASSET_URL}/86/cover.png",
+    "url": "{ASSET_URL}/86/index.html"
+  },
+  {
+    "id": 87,
+    "name": "Emulator.JS",
+    "cover": "{ASSET_URL}/87/cover.png",
+    "url": "{ASSET_URL}/87/index.html"
+  },
+  {
+    "id": 88,
+    "name": "Fireboy and Watergirl 2",
+    "cover": "{ASSET_URL}/88/cover.png",
+    "url": "{ASSET_URL}/88/index.html"
+  },
+  {
+    "id": 89,
+    "name": "Fireboy and Watergirl 3",
+    "cover": "{ASSET_URL}/89/cover.png",
+    "url": "{ASSET_URL}/89/index.html"
+  },
+  {
+    "id": 90,
+    "name": "Granny",
+    "cover": "{ASSET_URL}/90/cover.png",
+    "url": "{ASSET_URL}/90/index.html"
+  },
+  {
+    "id": 91,
+    "name": "Gunspin",
+    "cover": "{ASSET_URL}/91/cover.png",
+    "url": "{ASSET_URL}/91/index.html"
+  },
+  {
+    "id": 92,
+    "name": "Highway Racer 2",
+    "cover": "{ASSET_URL}/92/cover.png",
+    "url": "{ASSET_URL}/92/index.html"
+  },
+  {
+    "id": 93,
+    "name": "Johnny Trigger",
+    "cover": "{ASSET_URL}/93/cover.png",
+    "url": "{ASSET_URL}/93/index.html"
+  },
+  {
+    "id": 94,
+    "name": "Journey Downhill",
+    "cover": "{ASSET_URL}/94/cover.png",
+    "url": "{ASSET_URL}/94/index.html"
+  },
+  {
+    "id": 95,
+    "name": "Line Rider",
+    "cover": "{ASSET_URL}/95/cover.png",
+    "url": "{ASSET_URL}/95/index.html"
+  },
+  {
+    "id": 96,
+    "name": "Moto X3M",
+    "cover": "{ASSET_URL}/96/cover.png",
+    "url": "{ASSET_URL}/96/index.html"
+  },
+  {
+    "id": 97,
+    "name": "Moto X3M 2",
+    "cover": "{ASSET_URL}/97/cover.png",
+    "url": "{ASSET_URL}/97/index.html"
+  },
+  {
+    "id": 98,
+    "name": "Moto X3M 3",
+    "cover": "{ASSET_URL}/98/cover.png",
+    "url": "{ASSET_URL}/98/index.html"
+  },
+  {
+    "id": 99,
+    "name": "Moto X3M Spooky",
+    "cover": "{ASSET_URL}/99/cover.png",
+    "url": "{ASSET_URL}/99/index.html"
+  },
+  {
+    "id": 100,
+    "name": "Moto X3M Winter",
+    "cover": "{ASSET_URL}/100/cover.png",
+    "url": "{ASSET_URL}/100/index.html"
+  },
+  {
+    "id": 101,
+    "name": "Ninja vs EvilCorp",
+    "cover": "{ASSET_URL}/101/cover.png",
+    "url": "{ASSET_URL}/101/index.html"
+  },
+  {
+    "id": 102,
+    "name": "Paper.io 2",
+    "cover": "{ASSET_URL}/102/cover.png",
+    "url": "{ASSET_URL}/102/index.html"
+  },
+  {
+    "id": 103,
+    "name": "The World's Hardest Game",
+    "cover": "{ASSET_URL}/103/cover.png",
+    "url": "{ASSET_URL}/103/index.html"
+  },
+  {
+    "id": 104,
+    "name": "The World's Hardest Game 3",
+    "cover": "{ASSET_URL}/104/cover.png",
+    "url": "{ASSET_URL}/104/index.html"
+  },
+  {
+    "id": 105,
+    "name": "The World's Hardest Game 4",
+    "cover": "{ASSET_URL}/105/cover.png",
+    "url": "{ASSET_URL}/105/index.html"
+  },
+  {
+    "id": 106,
+    "name": "This Is The Only Level",
+    "cover": "{ASSET_URL}/106/cover.png",
+    "url": "{ASSET_URL}/106/index.html"
+  },
+  {
+    "id": 107,
+    "name": "This Is The Only Level 2",
+    "cover": "{ASSET_URL}/107/cover.png",
+    "url": "{ASSET_URL}/107/index.html"
+  },
+  {
+    "id": 108,
+    "name": "Tiny Fishing",
+    "cover": "{ASSET_URL}/108/cover.png",
+    "url": "{ASSET_URL}/108/index.html"
+  },
+  {
+    "id": 109,
+    "name": "Tomb Of The Mask",
+    "cover": "{ASSET_URL}/109/cover.png",
+    "url": "{ASSET_URL}/109/index.html"
+  },
+  {
+    "id": 110,
+    "name": "Toss The Turtle",
+    "cover": "{ASSET_URL}/110/cover.png",
+    "url": "{ASSET_URL}/110/index.html"
+  },
+  {
+    "id": 111,
+    "name": "Tube Jumpers",
+    "cover": "{ASSET_URL}/111/cover.png",
+    "url": "{ASSET_URL}/111/index.html"
+  },
+  {
+    "id": 112,
+    "name": "Wordle",
+    "cover": "{ASSET_URL}/112/cover.png",
+    "url": "{ASSET_URL}/112/index.html"
   }
 ]
