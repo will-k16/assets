@@ -724,5 +724,11 @@
     "name": "Project Prismatic",
     "cover": "{ASSET_URL}/119/cover.png",
     "url": "{ASSET_URL}/119/index.html"
+  },
+  {
+    "id": 120,
+    "name": "Bad Parenting: Mr. Red Face",
+    "cover": "{ASSET_URL}/120/img/logo.png",
+    "url": "{ASSET_URL}/120/index.html"
   }
 ]
