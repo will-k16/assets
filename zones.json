@@ -718,5 +718,11 @@
     "name": "Solar Smash",
     "cover": "{ASSET_URL}/118/cover.png",
     "url": "{ASSET_URL}/118/index.html"
+  },
+  {
+    "id": 119,
+    "name": "Project Prismatic",
+    "cover": "{ASSET_URL}/119/cover.png",
+    "url": "{ASSET_URL}/119/index.html"
   }
 ]

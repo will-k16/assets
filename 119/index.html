@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta href="https://rawcdn.githack.com/gn-math/assets/main/119/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Prismatic</title>
+    <script>
+        const buildUrl = "Build/2043";
+        const unityConfig = {
+            dataUrl: "https://bbcdn.githack.com/jnfdk/pp/raw/main/2043%20-%20cg.data.br",
+            frameworkUrl: buildUrl + " - cg.framework.js.br",
+            codeUrl: buildUrl + " - cg.wasm.br",
+            streamingAssetsUrl: "StreamingAssets",
+            companyName: "Project Prismatic",
+            productName: "Project Prismatic",
+            productVersion: "1.327",
+        };
+    </script>
+    <script src="Build/2043 - cg.loader.js"></script>
+    <style>
+        body { margin: 0; overflow: hidden; display: flex; justify-content: center; align-items: center; height: 100vh; }
+        canvas { width: 100%; height: 100%; }
+    </style>
+</head>
+<body>
+    <canvas id="unityCanvas"></canvas>
+    <script>
+        createUnityInstance(document.querySelector("#unityCanvas"), unityConfig)
+            .then(instance => console.log("Unity loaded successfully"))
+            .catch(err => console.error("Failed to load Unity", err));
+    </script>
+</body>
+</html>
