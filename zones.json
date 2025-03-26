@@ -736,5 +736,17 @@
     "name": "Brawl Guys.io",
     "cover": "{ASSET_URL}/121/cover.png",
     "url": "{ASSET_URL}/121/index.html"
+  },
+  {
+    "id": 122,
+    "name": "Survival Race",
+    "cover": "{ASSET_URL}/122/cover.png",
+    "url": "{ASSET_URL}/122/index.html"
+  },
+  {
+    "id": 123,
+    "name": "Poly Track",
+    "cover": "{ASSET_URL}/123/cover.png",
+    "url": "{ASSET_URL}/123/index.html"
   }
 ]
