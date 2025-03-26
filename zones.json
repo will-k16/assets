@@ -730,5 +730,11 @@
     "name": "Fortzone Battle Royale",
     "cover": "{ASSET_URL}/120/cover.png",
     "url": "{ASSET_URL}/120/index.html"
+  },
+  {
+    "id": 121,
+    "name": "Brawl Guys.io",
+    "cover": "{ASSET_URL}/121/cover.png",
+    "url": "{ASSET_URL}/121/index.html"
   }
 ]
