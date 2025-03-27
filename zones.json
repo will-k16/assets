@@ -2,751 +2,757 @@
   {
     "id": -1,
     "name": "[!] SUGGEST GAMES .gg/NAFw4ykZ7n",
-    "cover": "{ASSET_URL}/dc.png",
+    "cover": "{COVER_URL}/dc.png",
     "url": "https://discord.gg/NAFw4ykZ7n"
   },
   {
     "id": 0,
     "name": "Bowmasters",
-    "cover": "{ASSET_URL}/0/cover.png",
-    "url": "{ASSET_URL}/0/index.html"
+    "cover": "{COVER_URL}/0.png",
+    "url": "{HTML_URL}/0.html"
   },
   {
     "id": 1,
     "name": "OvO",
-    "cover": "{ASSET_URL}/1/cover.png",
-    "url": "{ASSET_URL}/1/index.html"
+    "cover": "{COVER_URL}/1.png",
+    "url": "{HTML_URL}/1.html"
   },
   {
     "id": 2,
     "name": "OvO 2",
-    "cover": "{ASSET_URL}/2/cover.png",
-    "url": "{ASSET_URL}/2/index.html"
+    "cover": "{COVER_URL}/2.png",
+    "url": "{HTML_URL}/2.html"
   },
   {
     "id": 3,
     "name": "OvO 3 Dimensions",
-    "cover": "{ASSET_URL}/3/cover.png",
-    "url": "{ASSET_URL}/3/index.html"
+    "cover": "{COVER_URL}/3.png",
+    "url": "{HTML_URL}/3.html"
   },
   {
     "id": 4,
     "name": "Gladihoppers",
-    "cover": "{ASSET_URL}/4/cover.png",
-    "url": "{ASSET_URL}/4/index.html"
+    "cover": "{COVER_URL}/4.png",
+    "url": "{HTML_URL}/4.html"
   },
   {
     "id": 5,
     "name": "Ice Dodo",
-    "cover": "{ASSET_URL}/5/cover.png",
-    "url": "{ASSET_URL}/5/index.html"
+    "cover": "{COVER_URL}/5.png",
+    "url": "{HTML_URL}/5.html"
   },
   {
     "id": 6,
     "name": "Block Blast",
-    "cover": "{ASSET_URL}/6/cover.png",
-    "url": "{ASSET_URL}/6/index.html"
+    "cover": "{COVER_URL}/6.png",
+    "url": "{HTML_URL}/6.html"
   },
   {
     "id": 7,
     "name": "Jetpack Joyride",
-    "cover": "{ASSET_URL}/7/cover.png",
-    "url": "{ASSET_URL}/7/index.html"
+    "cover": "{COVER_URL}/7.png",
+    "url": "{HTML_URL}/7.html"
   },
   {
     "id": 8,
     "name": "Friday Night Funkin",
-    "cover": "{ASSET_URL}/8/cover.png",
-    "url": "{ASSET_URL}/8/index.html"
+    "cover": "{COVER_URL}/8.png",
+    "url": "{HTML_URL}/8.html"
   },
   {
     "id": 9,
     "name": "Sprunki",
-    "cover": "{ASSET_URL}/9/cover.png",
-    "url": "{ASSET_URL}/9/index.html"
+    "cover": "{COVER_URL}/9.png",
+    "url": "{HTML_URL}/9.html"
   },
   {
     "id": 10,
     "name": "Temple Run 2",
-    "cover": "{ASSET_URL}/10/cover.png",
-    "url": "{ASSET_URL}/10/index.html"
+    "cover": "{COVER_URL}/10.png",
+    "url": "{HTML_URL}/10.html"
   },
   {
     "id": 11,
     "name": "Stickman Hook",
-    "cover": "{ASSET_URL}/11/cover.png",
-    "url": "{ASSET_URL}/11/index.html"
+    "cover": "{COVER_URL}/11.png",
+    "url": "{HTML_URL}/11.html"
   },
   {
     "id": 12,
     "name": "Subway Surfers",
-    "cover": "{ASSET_URL}/12/cover.png",
-    "url": "{ASSET_URL}/12/index.html"
+    "cover": "{COVER_URL}/12.png",
+    "url": "{HTML_URL}/12.html"
   },
   {
     "id": 13,
     "name": "Attack Hole",
-    "cover": "{ASSET_URL}/13/cover.png",
-    "url": "{ASSET_URL}/13/index.html"
+    "cover": "{COVER_URL}/13.png",
+    "url": "{HTML_URL}/13.html"
   },
   {
     "id": 14,
     "name": "Bridge Race",
-    "cover": "{ASSET_URL}/14/cover.png",
-    "url": "{ASSET_URL}/14/index.html"
+    "cover": "{COVER_URL}/14.png",
+    "url": "{HTML_URL}/14.html"
   },
   {
     "id": 15,
     "name": "Color Water Sort 3D",
-    "cover": "{ASSET_URL}/15/cover.png",
-    "url": "{ASSET_URL}/15/index.html"
+    "cover": "{COVER_URL}/15.png",
+    "url": "{HTML_URL}/15.html"
   },
   {
     "id": 16,
     "name": "Hide N Seek",
-    "cover": "{ASSET_URL}/16/cover.png",
-    "url": "{ASSET_URL}/16/index.html"
+    "cover": "{COVER_URL}/16.png",
+    "url": "{HTML_URL}/16.html"
   },
   {
     "id": 17,
     "name": "Magic Tiles 3",
-    "cover": "{ASSET_URL}/17/cover.png",
-    "url": "{ASSET_URL}/17/index.html"
+    "cover": "{COVER_URL}/17.png",
+    "url": "{HTML_URL}/17.html"
   },
   {
     "id": 18,
     "name": "Stacky Dash",
-    "cover": "{ASSET_URL}/18/cover.png",
-    "url": "{ASSET_URL}/18/index.html"
+    "cover": "{COVER_URL}/18.png",
+    "url": "{HTML_URL}/18.html"
   },
   {
     "id": 19,
     "name": "Supreme Duelist",
-    "cover": "{ASSET_URL}/19/cover.png",
-    "url": "{ASSET_URL}/19/index.html"
+    "cover": "{COVER_URL}/19.png",
+    "url": "{HTML_URL}/19.html"
   },
   {
     "id": 20,
     "name": "Tall Man Run",
-    "cover": "{ASSET_URL}/20/cover.png",
-    "url": "{ASSET_URL}/20/index.html"
+    "cover": "{COVER_URL}/20.png",
+    "url": "{HTML_URL}/20.html"
   },
   {
     "id": 21,
     "name": "Turbo Stars",
-    "cover": "{ASSET_URL}/21/cover.png",
-    "url": "{ASSET_URL}/21/index.html"
+    "cover": "{COVER_URL}/21.png",
+    "url": "{HTML_URL}/21.html"
   },
   {
     "id": 22,
     "name": "Mob Control HTML5",
-    "cover": "{ASSET_URL}/22/cover.png",
-    "url": "{ASSET_URL}/22/index.html"
+    "cover": "{COVER_URL}/22.png",
+    "url": "{HTML_URL}/22.html"
   },
   {
     "id": 23,
     "name": "Pou",
-    "cover": "{ASSET_URL}/23/cover.png",
-    "url": "{ASSET_URL}/23/index.html"
+    "cover": "{COVER_URL}/23.png",
+    "url": "{HTML_URL}/23.html"
   },
   {
     "id": 24,
     "name": "Crossy Road",
-    "cover": "{ASSET_URL}/24/cover.png",
-    "url": "{ASSET_URL}/24/index.html"
+    "cover": "{COVER_URL}/24.png",
+    "url": "{HTML_URL}/24.html"
   },
   {
     "id": 25,
     "name": "Basket Battle",
-    "cover": "{ASSET_URL}/25/cover.png",
-    "url": "{ASSET_URL}/25/index.html"
+    "cover": "{COVER_URL}/25.png",
+    "url": "{HTML_URL}/25.html"
   },
   {
     "id": 26,
     "name": "Amaze",
-    "cover": "{ASSET_URL}/26/cover.png",
-    "url": "{ASSET_URL}/26/index.html"
+    "cover": "{COVER_URL}/26.png",
+    "url": "{HTML_URL}/26.html"
   },
   {
     "id": 27,
     "name": "Geometry Dash Lite",
-    "cover": "{ASSET_URL}/27/cover.png",
-    "url": "{ASSET_URL}/27/index.html"
+    "cover": "{COVER_URL}/27.png",
+    "url": "{HTML_URL}/27.html"
   },
   {
     "id": 28,
     "name": "Basketball Frvr",
-    "cover": "{ASSET_URL}/28/cover.png",
-    "url": "{ASSET_URL}/28/index.html"
+    "cover": "{COVER_URL}/28.png",
+    "url": "{HTML_URL}/28.html"
   },
   {
     "id": 29,
     "name": "Bazooka Boy",
-    "cover": "{ASSET_URL}/29/cover.png",
-    "url": "{ASSET_URL}/29/index.html"
+    "cover": "{COVER_URL}/29.png",
+    "url": "{HTML_URL}/29.html"
   },
   {
     "id": 30,
     "name": "Bottle Jump 3D",
-    "cover": "{ASSET_URL}/30/cover.png",
-    "url": "{ASSET_URL}/30/index.html"
+    "cover": "{COVER_URL}/30.png",
+    "url": "{HTML_URL}/30.html"
   },
   {
     "id": 31,
     "name": "Color Match",
-    "cover": "{ASSET_URL}/31/cover.png",
-    "url": "{ASSET_URL}/31/index.html"
+    "cover": "{COVER_URL}/31.png",
+    "url": "{HTML_URL}/31.html"
   },
   {
     "id": 32,
     "name": "Dig Deep",
-    "cover": "{ASSET_URL}/32/cover.png",
-    "url": "{ASSET_URL}/32/index.html"
+    "cover": "{COVER_URL}/32.png",
+    "url": "{HTML_URL}/32.html"
   },
   {
     "id": 33,
     "name": "Retro Bowl",
-    "cover": "{ASSET_URL}/33/cover.png",
-    "url": "{ASSET_URL}/33/index.html"
+    "cover": "{COVER_URL}/33.png",
+    "url": "{HTML_URL}/33.html"
   },
   {
     "id": 34,
     "name": "Retro Bowl College",
-    "cover": "{ASSET_URL}/34/cover.png",
-    "url": "{ASSET_URL}/34/index.html"
+    "cover": "{COVER_URL}/34.png",
+    "url": "{HTML_URL}/34.html"
   },
   {
     "id": 35,
     "name": "Drive Mad",
-    "cover": "{ASSET_URL}/35/cover.png",
-    "url": "{ASSET_URL}/35/index.html"
+    "cover": "{COVER_URL}/35.png",
+    "url": "{HTML_URL}/35.html"
   },
   {
     "id": 36,
     "name": "Monster Tracks",
-    "cover": "{ASSET_URL}/36/cover.png",
-    "url": "{ASSET_URL}/36/index.html"
+    "cover": "{COVER_URL}/36.png",
+    "url": "{HTML_URL}/36.html"
   },
   {
     "id": 37,
     "name": "Gobble",
-    "cover": "{ASSET_URL}/37/cover.png",
-    "url": "{ASSET_URL}/37/index.html"
+    "cover": "{COVER_URL}/37.png",
+    "url": "{HTML_URL}/37.html"
   },
   {
     "id": 38,
     "name": "Five Nights at Freddy's",
-    "cover": "{ASSET_URL}/38/cover.png",
-    "url": "{ASSET_URL}/38/index.html"
+    "cover": "{COVER_URL}/38.png",
+    "url": "{HTML_URL}/38.html"
   },
   {
     "id": 39,
     "name": "Five Nights at Freddy's 2",
-    "cover": "{ASSET_URL}/39/cover.png",
-    "url": "{ASSET_URL}/39/index.html"
+    "cover": "{COVER_URL}/39.png",
+    "url": "{HTML_URL}/39.html"
   },
   {
     "id": 40,
     "name": "Five Nights at Freddy's 3",
-    "cover": "{ASSET_URL}/40/cover.png",
-    "url": "{ASSET_URL}/40/index.html"
+    "cover": "{COVER_URL}/40.png",
+    "url": "{HTML_URL}/40.html"
   },
   {
     "id": 41,
     "name": "Five Nights at Freddy's 4",
-    "cover": "{ASSET_URL}/41/cover.png",
-    "url": "{ASSET_URL}/41/index.html"
+    "cover": "{COVER_URL}/41.png",
+    "url": "{HTML_URL}/41.html"
   },
   {
     "id": 42,
     "name": "Road of Fury",
-    "cover": "{ASSET_URL}/42/cover.png",
-    "url": "{ASSET_URL}/42/index.html"
+    "cover": "{COVER_URL}/42.png",
+    "url": "{HTML_URL}/42.html"
   },
   {
     "id": 43,
     "name": "Driven Wild",
-    "cover": "{ASSET_URL}/43/cover.png",
-    "url": "{ASSET_URL}/43/index.html"
+    "cover": "{COVER_URL}/43.png",
+    "url": "{HTML_URL}/43.html"
   },
   {
     "id": 44,
     "name": "Ragdoll Hit",
-    "cover": "{ASSET_URL}/44/cover.png",
-    "url": "{ASSET_URL}/44/index.html"
+    "cover": "{COVER_URL}/44.png",
+    "url": "{HTML_URL}/44.html"
   },
   {
     "id": 45,
     "name": "Vex 1",
-    "cover": "{ASSET_URL}/45/cover.png",
-    "url": "{ASSET_URL}/45/index.html"
+    "cover": "{COVER_URL}/45.png",
+    "url": "{HTML_URL}/45.html"
   },
   {
     "id": 46,
     "name": "Vex 2",
-    "cover": "{ASSET_URL}/46/cover.png",
-    "url": "{ASSET_URL}/46/index.html"
+    "cover": "{COVER_URL}/46.png",
+    "url": "{HTML_URL}/46.html"
   },
   {
     "id": 47,
     "name": "Vex 3",
-    "cover": "{ASSET_URL}/47/cover.png",
-    "url": "{ASSET_URL}/47/index.html"
+    "cover": "{COVER_URL}/47.png",
+    "url": "{HTML_URL}/47.html"
   },
   {
     "id": 48,
     "name": "Vex 3 XMAS",
-    "cover": "{ASSET_URL}/48/cover.png",
-    "url": "{ASSET_URL}/48/index.html"
+    "cover": "{COVER_URL}/48.png",
+    "url": "{HTML_URL}/48.html"
   },
   {
     "id": 49,
     "name": "Vex 4",
-    "cover": "{ASSET_URL}/49/cover.png",
-    "url": "{ASSET_URL}/49/index.html"
+    "cover": "{COVER_URL}/49.png",
+    "url": "{HTML_URL}/49.html"
   },
   {
     "id": 50,
     "name": "Vex 5",
-    "cover": "{ASSET_URL}/50/cover.png",
-    "url": "{ASSET_URL}/50/index.html"
+    "cover": "{COVER_URL}/50.png",
+    "url": "{HTML_URL}/50.html"
   },
   {
     "id": 51,
     "name": "Vex 6",
-    "cover": "{ASSET_URL}/51/cover.png",
-    "url": "{ASSET_URL}/51/index.html"
+    "cover": "{COVER_URL}/51.png",
+    "url": "{HTML_URL}/51.html"
   },
   {
     "id": 52,
     "name": "Vex 7",
-    "cover": "{ASSET_URL}/52/cover.png",
-    "url": "{ASSET_URL}/52/index.html"
+    "cover": "{COVER_URL}/52.png",
+    "url": "{HTML_URL}/52.html"
   },
   {
     "id": 53,
     "name": "Vex 8",
-    "cover": "{ASSET_URL}/53/cover.png",
-    "url": "{ASSET_URL}/53/index.html"
+    "cover": "{COVER_URL}/53.png",
+    "url": "{HTML_URL}/53.html"
   },
   {
     "id": 54,
     "name": "Vex Challenges",
-    "cover": "{ASSET_URL}/54/cover.png",
-    "url": "{ASSET_URL}/54/index.html"
+    "cover": "{COVER_URL}/54.png",
+    "url": "{HTML_URL}/54.html"
   },
   {
     "id": 55,
     "name": "Vex X3M",
-    "cover": "{ASSET_URL}/55/cover.png",
-    "url": "{ASSET_URL}/55/index.html"
+    "cover": "{COVER_URL}/55.png",
+    "url": "{HTML_URL}/55.html"
   },
   {
     "id": 56,
     "name": "Vex X3M 2",
-    "cover": "{ASSET_URL}/56/cover.png",
-    "url": "{ASSET_URL}/56/index.html"
+    "cover": "{COVER_URL}/56.png",
+    "url": "{HTML_URL}/56.html"
   },
   {
     "id": 57,
     "name": "Monkey Mart",
-    "cover": "{ASSET_URL}/57/cover.png",
-    "url": "{ASSET_URL}/57/index.html"
+    "cover": "{COVER_URL}/57.png",
+    "url": "{HTML_URL}/57.html"
   },
   {
     "id": 58,
     "name": "1v1.LoL",
-    "cover": "{ASSET_URL}/58/cover.png",
-    "url": "{ASSET_URL}/58/index.html"
+    "cover": "{COVER_URL}/58.png",
+    "url": "{HTML_URL}/58.html"
   },
   {
     "id": 59,
     "name": "A Dance of Fire and Ice",
-    "cover": "{ASSET_URL}/59/cover.png",
-    "url": "{ASSET_URL}/59/index.html"
+    "cover": "{COVER_URL}/59.png",
+    "url": "{HTML_URL}/59.html"
   },
   {
     "id": 60,
     "name": "Achievement Unlocked",
-    "cover": "{ASSET_URL}/60/cover.png",
-    "url": "{ASSET_URL}/60/index.html"
+    "cover": "{COVER_URL}/60.png",
+    "url": "{HTML_URL}/60.html"
   },
   {
     "id": 61,
     "name": "Achievement Unlocked 2",
-    "cover": "{ASSET_URL}/61/cover.png",
-    "url": "{ASSET_URL}/61/index.html"
+    "cover": "{COVER_URL}/61.png",
+    "url": "{HTML_URL}/61.html"
   },
   {
     "id": 62,
     "name": "Achievement Unlocked 3",
-    "cover": "{ASSET_URL}/62/cover.png",
-    "url": "{ASSET_URL}/62/index.html"
+    "cover": "{COVER_URL}/62.png",
+    "url": "{HTML_URL}/62.html"
   },
   {
     "id": 63,
     "name": "Angry Birds",
-    "cover": "{ASSET_URL}/63/cover.png",
-    "url": "{ASSET_URL}/63/index.html"
+    "cover": "{COVER_URL}/63.png",
+    "url": "{HTML_URL}/63.html"
   },
   {
     "id": 64,
     "name": "Backrooms",
-    "cover": "{ASSET_URL}/64/cover.png",
-    "url": "{ASSET_URL}/64/index.html"
+    "cover": "{COVER_URL}/64.png",
+    "url": "{HTML_URL}/64.html"
   },
   {
     "id": 65,
     "name": "Baldi's Basics",
-    "cover": "{ASSET_URL}/65/cover.png",
-    "url": "{ASSET_URL}/65/index.html"
+    "cover": "{COVER_URL}/65.png",
+    "url": "{HTML_URL}/65.html"
   },
   {
     "id": 66,
     "name": "Basket Random",
-    "cover": "{ASSET_URL}/66/cover.png",
-    "url": "{ASSET_URL}/66/index.html"
+    "cover": "{COVER_URL}/66.png",
+    "url": "{HTML_URL}/66.html"
   },
   {
     "id": 67,
     "name": "Big Tower Tiny Square",
-    "cover": "{ASSET_URL}/67/cover.png",
-    "url": "{ASSET_URL}/67/index.html"
+    "cover": "{COVER_URL}/67.png",
+    "url": "{HTML_URL}/67.html"
   },
   {
     "id": 68,
     "name": "Big NEON Tower Tiny Square",
-    "cover": "{ASSET_URL}/68/cover.png",
-    "url": "{ASSET_URL}/68/index.html"
+    "cover": "{COVER_URL}/68.png",
+    "url": "{HTML_URL}/68.html"
   },
   {
     "id": 69,
     "name": "Big ICE Tower Tiny Square",
-    "cover": "{ASSET_URL}/69/cover.png",
-    "url": "{ASSET_URL}/69/index.html"
+    "cover": "{COVER_URL}/69.png",
+    "url": "{HTML_URL}/69.html"
   },
   {
     "id": 70,
     "name": "BitLife",
-    "cover": "{ASSET_URL}/70/cover.png",
-    "url": "{ASSET_URL}/70/index.html"
+    "cover": "{COVER_URL}/70.png",
+    "url": "{HTML_URL}/70.html"
   },
   {
     "id": 71,
     "name": "Bloons TD",
-    "cover": "{ASSET_URL}/71/cover.png",
-    "url": "{ASSET_URL}/71/index.html"
+    "cover": "{COVER_URL}/71.png",
+    "url": "{HTML_URL}/71.html"
   },
   {
     "id": 72,
     "name": "Bloons TD 2",
-    "cover": "{ASSET_URL}/72/cover.png",
-    "url": "{ASSET_URL}/72/index.html"
+    "cover": "{COVER_URL}/72.png",
+    "url": "{HTML_URL}/72.html"
   },
   {
     "id": 73,
     "name": "Bloons TD 3",
-    "cover": "{ASSET_URL}/73/cover.png",
-    "url": "{ASSET_URL}/73/index.html"
+    "cover": "{COVER_URL}/73.png",
+    "url": "{HTML_URL}/73.html"
   },
   {
     "id": 74,
     "name": "Bloons TD 4",
-    "cover": "{ASSET_URL}/74/cover.png",
-    "url": "{ASSET_URL}/74/index.html"
+    "cover": "{COVER_URL}/74.png",
+    "url": "{HTML_URL}/74.html"
   },
   {
     "id": 75,
     "name": "Bloons TD 5",
-    "cover": "{ASSET_URL}/75/cover.png",
-    "url": "{ASSET_URL}/75/index.html"
+    "cover": "{COVER_URL}/75.png",
+    "url": "{HTML_URL}/75.html"
   },
   {
     "id": 76,
     "name": "Bob The Robber 2",
-    "cover": "{ASSET_URL}/76/cover.png",
-    "url": "{ASSET_URL}/76/index.html"
+    "cover": "{COVER_URL}/76.png",
+    "url": "{HTML_URL}/76.html"
   },
   {
     "id": 77,
     "name": "Boxing Random",
-    "cover": "{ASSET_URL}/77/cover.png",
-    "url": "{ASSET_URL}/77/index.html"
+    "cover": "{COVER_URL}/77.png",
+    "url": "{HTML_URL}/77.html"
   },
   {
     "id": 78,
     "name": "Burrito Bison",
-    "cover": "{ASSET_URL}/78/cover.png",
-    "url": "{ASSET_URL}/78/index.html"
+    "cover": "{COVER_URL}/78.png",
+    "url": "{HTML_URL}/78.html"
   },
   {
     "id": 79,
     "name": "Cannon Basketball",
-    "cover": "{ASSET_URL}/79/cover.png",
-    "url": "{ASSET_URL}/79/index.html"
+    "cover": "{COVER_URL}/79.png",
+    "url": "{HTML_URL}/79.html"
   },
   {
     "id": 80,
     "name": "Cannon Basketball 2",
-    "cover": "{ASSET_URL}/80/cover.png",
-    "url": "{ASSET_URL}/80/index.html"
+    "cover": "{COVER_URL}/80.png",
+    "url": "{HTML_URL}/80.html"
   },
   {
     "id": 81,
     "name": "Cluster Rush",
-    "cover": "{ASSET_URL}/81/cover.png",
-    "url": "{ASSET_URL}/81/index.html"
+    "cover": "{COVER_URL}/81.png",
+    "url": "{HTML_URL}/81.html"
   },
   {
     "id": 82,
     "name": "Cookie Clicker",
-    "cover": "{ASSET_URL}/82/cover.png",
-    "url": "{ASSET_URL}/82/index.html"
+    "cover": "{COVER_URL}/82.png",
+    "url": "{HTML_URL}/82.html"
   },
   {
     "id": 83,
     "name": "Coreball",
-    "cover": "{ASSET_URL}/83/cover.png",
-    "url": "{ASSET_URL}/83/index.html"
+    "cover": "{COVER_URL}/83.png",
+    "url": "{HTML_URL}/83.html"
   },
   {
     "id": 84,
     "name": "Cubefield",
-    "cover": "{ASSET_URL}/84/cover.png",
-    "url": "{ASSET_URL}/84/index.html"
+    "cover": "{COVER_URL}/84.png",
+    "url": "{HTML_URL}/84.html"
   },
   {
     "id": 85,
     "name": "Cut the Rope",
-    "cover": "{ASSET_URL}/85/cover.png",
-    "url": "{ASSET_URL}/85/index.html"
+    "cover": "{COVER_URL}/85.png",
+    "url": "{HTML_URL}/85.html"
   },
   {
     "id": 86,
     "name": "Draw Climber",
-    "cover": "{ASSET_URL}/86/cover.png",
-    "url": "{ASSET_URL}/86/index.html"
+    "cover": "{COVER_URL}/86.png",
+    "url": "{HTML_URL}/86.html"
   },
   {
     "id": 87,
     "name": "Emulator.JS",
-    "cover": "{ASSET_URL}/87/cover.png",
-    "url": "{ASSET_URL}/87/index.html"
+    "cover": "{COVER_URL}/87.png",
+    "url": "{HTML_URL}/87.html"
   },
   {
     "id": 88,
     "name": "Fireboy and Watergirl 2",
-    "cover": "{ASSET_URL}/88/cover.png",
-    "url": "{ASSET_URL}/88/index.html"
+    "cover": "{COVER_URL}/88.png",
+    "url": "{HTML_URL}/88.html"
   },
   {
     "id": 89,
     "name": "Fireboy and Watergirl 3",
-    "cover": "{ASSET_URL}/89/cover.png",
-    "url": "{ASSET_URL}/89/index.html"
+    "cover": "{COVER_URL}/89.png",
+    "url": "{HTML_URL}/89.html"
   },
   {
     "id": 90,
     "name": "Granny",
-    "cover": "{ASSET_URL}/90/cover.png",
-    "url": "{ASSET_URL}/90/index.html"
+    "cover": "{COVER_URL}/90.png",
+    "url": "{HTML_URL}/90.html"
   },
   {
     "id": 91,
     "name": "Gunspin",
-    "cover": "{ASSET_URL}/91/cover.png",
-    "url": "{ASSET_URL}/91/index.html"
+    "cover": "{COVER_URL}/91.png",
+    "url": "{HTML_URL}/91.html"
   },
   {
     "id": 92,
     "name": "Highway Racer 2",
-    "cover": "{ASSET_URL}/92/cover.png",
-    "url": "{ASSET_URL}/92/index.html"
+    "cover": "{COVER_URL}/92.png",
+    "url": "{HTML_URL}/92.html"
   },
   {
     "id": 93,
     "name": "Johnny Trigger",
-    "cover": "{ASSET_URL}/93/cover.png",
-    "url": "{ASSET_URL}/93/index.html"
+    "cover": "{COVER_URL}/93.png",
+    "url": "{HTML_URL}/93.html"
   },
   {
     "id": 94,
     "name": "Journey Downhill",
-    "cover": "{ASSET_URL}/94/cover.png",
-    "url": "{ASSET_URL}/94/index.html"
+    "cover": "{COVER_URL}/94.png",
+    "url": "{HTML_URL}/94.html"
   },
   {
     "id": 95,
     "name": "Line Rider",
-    "cover": "{ASSET_URL}/95/cover.png",
-    "url": "{ASSET_URL}/95/index.html"
+    "cover": "{COVER_URL}/95.png",
+    "url": "{HTML_URL}/95.html"
   },
   {
     "id": 96,
     "name": "Moto X3M",
-    "cover": "{ASSET_URL}/96/cover.png",
-    "url": "{ASSET_URL}/96/index.html"
+    "cover": "{COVER_URL}/96.png",
+    "url": "{HTML_URL}/96.html"
   },
   {
     "id": 97,
     "name": "Moto X3M 2",
-    "cover": "{ASSET_URL}/97/cover.png",
-    "url": "{ASSET_URL}/97/index.html"
+    "cover": "{COVER_URL}/97.png",
+    "url": "{HTML_URL}/97.html"
   },
   {
     "id": 98,
     "name": "Moto X3M 3",
-    "cover": "{ASSET_URL}/98/cover.png",
-    "url": "{ASSET_URL}/98/index.html"
+    "cover": "{COVER_URL}/98.png",
+    "url": "{HTML_URL}/98.html"
   },
   {
     "id": 99,
     "name": "Moto X3M Spooky",
-    "cover": "{ASSET_URL}/99/cover.png",
-    "url": "{ASSET_URL}/99/index.html"
+    "cover": "{COVER_URL}/99.png",
+    "url": "{HTML_URL}/99.html"
   },
   {
     "id": 100,
     "name": "Moto X3M Winter",
-    "cover": "{ASSET_URL}/100/cover.png",
-    "url": "{ASSET_URL}/100/index.html"
+    "cover": "{COVER_URL}/100.png",
+    "url": "{HTML_URL}/100.html"
   },
   {
     "id": 101,
     "name": "Ninja vs EvilCorp",
-    "cover": "{ASSET_URL}/101/cover.png",
-    "url": "{ASSET_URL}/101/index.html"
+    "cover": "{COVER_URL}/101.png",
+    "url": "{HTML_URL}/101.html"
   },
   {
     "id": 102,
     "name": "Paper.io 2",
-    "cover": "{ASSET_URL}/102/cover.png",
-    "url": "{ASSET_URL}/102/index.html"
+    "cover": "{COVER_URL}/102.png",
+    "url": "{HTML_URL}/102.html"
   },
   {
     "id": 103,
     "name": "The World's Hardest Game",
-    "cover": "{ASSET_URL}/103/cover.png",
-    "url": "{ASSET_URL}/103/index.html"
+    "cover": "{COVER_URL}/103.png",
+    "url": "{HTML_URL}/103.html"
   },
   {
     "id": 104,
     "name": "The World's Hardest Game 3",
-    "cover": "{ASSET_URL}/104/cover.png",
-    "url": "{ASSET_URL}/104/index.html"
+    "cover": "{COVER_URL}/104.png",
+    "url": "{HTML_URL}/104.html"
   },
   {
     "id": 105,
     "name": "The World's Hardest Game 4",
-    "cover": "{ASSET_URL}/105/cover.png",
-    "url": "{ASSET_URL}/105/index.html"
+    "cover": "{COVER_URL}/105.png",
+    "url": "{HTML_URL}/105.html"
   },
   {
     "id": 106,
     "name": "This Is The Only Level",
-    "cover": "{ASSET_URL}/106/cover.png",
-    "url": "{ASSET_URL}/106/index.html"
+    "cover": "{COVER_URL}/106.png",
+    "url": "{HTML_URL}/106.html"
   },
   {
     "id": 107,
     "name": "This Is The Only Level 2",
-    "cover": "{ASSET_URL}/107/cover.png",
-    "url": "{ASSET_URL}/107/index.html"
+    "cover": "{COVER_URL}/107.png",
+    "url": "{HTML_URL}/107.html"
   },
   {
     "id": 108,
     "name": "Tiny Fishing",
-    "cover": "{ASSET_URL}/108/cover.png",
-    "url": "{ASSET_URL}/108/index.html"
+    "cover": "{COVER_URL}/108.png",
+    "url": "{HTML_URL}/108.html"
   },
   {
     "id": 109,
     "name": "Tomb Of The Mask",
-    "cover": "{ASSET_URL}/109/cover.png",
-    "url": "{ASSET_URL}/109/index.html"
+    "cover": "{COVER_URL}/109.png",
+    "url": "{HTML_URL}/109.html"
   },
   {
     "id": 110,
     "name": "Toss The Turtle",
-    "cover": "{ASSET_URL}/110/cover.png",
-    "url": "{ASSET_URL}/110/index.html"
+    "cover": "{COVER_URL}/110.png",
+    "url": "{HTML_URL}/110.html"
   },
   {
     "id": 111,
     "name": "Tube Jumpers",
-    "cover": "{ASSET_URL}/111/cover.png",
-    "url": "{ASSET_URL}/111/index.html"
+    "cover": "{COVER_URL}/111.png",
+    "url": "{HTML_URL}/111.html"
   },
   {
     "id": 112,
     "name": "Wordle",
-    "cover": "{ASSET_URL}/112/cover.png",
-    "url": "{ASSET_URL}/112/index.html"
+    "cover": "{COVER_URL}/112.png",
+    "url": "{HTML_URL}/112.html"
   },
   {
     "id": 113,
     "name": "Ruffle",
-    "cover": "{ASSET_URL}/113/cover.png",
-    "url": "{ASSET_URL}/113/index.html"
+    "cover": "{COVER_URL}/113.png",
+    "url": "{HTML_URL}/113.html"
   },
   {
     "id": 114,
     "name": "2048",
-    "cover": "{ASSET_URL}/114/cover.png",
-    "url": "{ASSET_URL}/114/index.html"
+    "cover": "{COVER_URL}/114.png",
+    "url": "{HTML_URL}/114.html"
   },
   {
     "id": 115,
     "name": "8 Ball Pool",
-    "cover": "{ASSET_URL}/115/cover.png",
-    "url": "{ASSET_URL}/115/index.html"
+    "cover": "{COVER_URL}/115.png",
+    "url": "{HTML_URL}/115.html"
   },
   {
     "id": 116,
     "name": "Offroad Mountain Bike",
-    "cover": "{ASSET_URL}/116/cover.png",
-    "url": "{ASSET_URL}/116/index.html"
+    "cover": "{COVER_URL}/116.png",
+    "url": "{HTML_URL}/116.html"
   },
   {
     "id": 117,
     "name": "Space Waves",
-    "cover": "{ASSET_URL}/117/logo.png",
-    "url": "{ASSET_URL}/117/index.html"
+    "cover": "{COVER_URL}/117.png",
+    "url": "{HTML_URL}/117.html"
   },
   {
     "id": 118,
     "name": "Solar Smash",
-    "cover": "{ASSET_URL}/118/cover.png",
-    "url": "{ASSET_URL}/118/index.html"
+    "cover": "{COVER_URL}/118.png",
+    "url": "{HTML_URL}/118.html"
   },
   {
     "id": 119,
     "name": "Snow Rider 3D",
-    "cover": "{ASSET_URL}/119/cover.png",
-    "url": "{ASSET_URL}/119/index.html"
+    "cover": "{COVER_URL}/119.png",
+    "url": "{HTML_URL}/119.html"
   },
   {
     "id": 120,
     "name": "Fortzone Battle Royale",
-    "cover": "{ASSET_URL}/120/cover.png",
-    "url": "{ASSET_URL}/120/index.html"
+    "cover": "{COVER_URL}/120.png",
+    "url": "{HTML_URL}/120.html"
   },
   {
     "id": 121,
     "name": "Brawl Guys.io",
-    "cover": "{ASSET_URL}/121/cover.png",
-    "url": "{ASSET_URL}/121/index.html"
+    "cover": "{COVER_URL}/121.png",
+    "url": "{HTML_URL}/121.html"
   },
   {
     "id": 122,
     "name": "Survival Race",
-    "cover": "{ASSET_URL}/122/cover.png",
-    "url": "{ASSET_URL}/122/index.html"
+    "cover": "{COVER_URL}/122.png",
+    "url": "{HTML_URL}/122.html"
   },
   {
     "id": 123,
     "name": "Poly Track",
-    "cover": "{ASSET_URL}/123/cover.png",
-    "url": "{ASSET_URL}/123/index.html"
+    "cover": "{COVER_URL}/123.png",
+    "url": "{HTML_URL}/123.html"
+  },
+  {
+    "id": 124,
+    "name": "Moto X3M Pool Party",
+    "cover": "{COVER_URL}/124.png",
+    "url": "{HTML_URL}/124.html"
   }
 ]
