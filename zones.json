@@ -772,5 +772,11 @@
     "name": "Fashion Battle",
     "cover": "{COVER_URL}/127.png",
     "url": "{HTML_URL}/127.html"
+  },
+  {
+    "id": 128,
+    "name": "Slice it All",
+    "cover": "{COVER_URL}/128.png",
+    "url": "{HTML_URL}/128.html"
   }
 ]
