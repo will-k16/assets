@@ -754,5 +754,23 @@
     "name": "Moto X3M Pool Party",
     "cover": "{COVER_URL}/124.png",
     "url": "{HTML_URL}/124.html"
+  },
+  {
+    "id": 125,
+    "name": "Granny 2",
+    "cover": "{COVER_URL}/125.png",
+    "url": "{HTML_URL}/125.html"
+  },
+  {
+    "id": 126,
+    "name": "Granny 3",
+    "cover": "{COVER_URL}/126.png",
+    "url": "{HTML_URL}/126.html"
+  },
+  {
+    "id": 127,
+    "name": "Fashion Battle",
+    "cover": "{COVER_URL}/127.png",
+    "url": "{HTML_URL}/127.html"
   }
 ]
