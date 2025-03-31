@@ -784,5 +784,11 @@
     "name": "Flappy Bird",
     "cover": "{COVER_URL}/129.png",
     "url": "{HTML_URL}/129.html"
+  },
+  {
+    "id": 130,
+    "name": "osu!",
+    "cover": "{COVER_URL}/130.png",
+    "url": "{HTML_URL}/130.html"
   }
 ]
