@@ -79,7 +79,7 @@
   },
   {
     "id": 12,
-    "name": "Subway Surfers",
+    "name": "Subway Surfers: San Francisco",
     "cover": "{COVER_URL}/12.png",
     "url": "{HTML_URL}/12.html"
   },
@@ -790,5 +790,95 @@
     "name": "osu!",
     "cover": "{COVER_URL}/130.png",
     "url": "{HTML_URL}/130.html"
+  },
+  {
+    "id": 131,
+    "name": "Subway Surfers: Barcelona",
+    "cover": "{COVER_URL}/131.png",
+    "url": "{HTML_URL}/131.html"
+  },
+  {
+    "id": 132,
+    "name": "Subway Surfers: Beijing",
+    "cover": "{COVER_URL}/132.png",
+    "url": "{HTML_URL}/132.html"
+  },
+  {
+    "id": 133,
+    "name": "Subway Surfers: Berlin",
+    "cover": "{COVER_URL}/133.png",
+    "url": "{HTML_URL}/133.html"
+  },
+  {
+    "id": 134,
+    "name": "Subway Surfers: Buenos Aires",
+    "cover": "{COVER_URL}/134.png",
+    "url": "{HTML_URL}/134.html"
+  },
+  {
+    "id": 135,
+    "name": "Subway Surfers: Havana",
+    "cover": "{COVER_URL}/135.png",
+    "url": "{HTML_URL}/135.html"
+  },
+  {
+    "id": 136,
+    "name": "Subway Surfers: Houston",
+    "cover": "{COVER_URL}/136.png",
+    "url": "{HTML_URL}/136.html"
+  },
+  {
+    "id": 137,
+    "name": "Subway Surfers: Iceland",
+    "cover": "{COVER_URL}/137.png",
+    "url": "{HTML_URL}/137.html"
+  },
+  {
+    "id": 138,
+    "name": "Subway Surfers: London",
+    "cover": "{COVER_URL}/138.png",
+    "url": "{HTML_URL}/138.html"
+  },
+  {
+    "id": 139,
+    "name": "Subway Surfers: Mexico",
+    "cover": "{COVER_URL}/139.png",
+    "url": "{HTML_URL}/139.html"
+  },
+  {
+    "id": 140,
+    "name": "Subway Surfers: Miami",
+    "cover": "{COVER_URL}/140.png",
+    "url": "{HTML_URL}/140.html"
+  },
+  {
+    "id": 141,
+    "name": "Subway Surfers: Monaco",
+    "cover": "{COVER_URL}/141.png",
+    "url": "{HTML_URL}/141.html"
+  },
+  {
+    "id": 142,
+    "name": "Subway Surfers: New Orleans",
+    "cover": "{COVER_URL}/142.png",
+    "url": "{HTML_URL}/142.html"
+  },
+  {
+    "id": 143,
+    "name": "Subway Surfers: St. Petersburg",
+    "cover": "{COVER_URL}/143.png",
+    "url": "{HTML_URL}/143.html"
+  },
+  {
+    "id": 144,
+    "name": "Subway Surfers: Winter Holiday",
+    "cover": "{COVER_URL}/144.png",
+    "url": "{HTML_URL}/144.html"
+  },
+  {
+    "id": 145,
+    "name": "Subway Surfers: Zurich",
+    "cover": "{COVER_URL}/145.png",
+    "url": "{HTML_URL}/145.html"
   }
 ]
