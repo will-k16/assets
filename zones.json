@@ -880,5 +880,113 @@
     "name": "Subway Surfers: Zurich",
     "cover": "{COVER_URL}/145.png",
     "url": "{HTML_URL}/145.html"
+  },
+  {
+    "id": 146,
+    "name": "8 Ball Classic",
+    "cover": "{COVER_URL}/146.png",
+    "url": "{HTML_URL}/146.html"
+  },
+  {
+    "id": 147,
+    "name": "Angry Birds Showdown",
+    "cover": "{COVER_URL}/147.png",
+    "url": "{HTML_URL}/147.html"
+  },
+  {
+    "id": 148,
+    "name": "Archery World Tour",
+    "cover": "{COVER_URL}/148.png",
+    "url": "{HTML_URL}/148.html"
+  },
+  {
+    "id": 149,
+    "name": "Ball Blast",
+    "cover": "{COVER_URL}/149.png",
+    "url": "{HTML_URL}/149.html"
+  },
+  {
+    "id": 150,
+    "name": "Cannon Balls 3D",
+    "cover": "{COVER_URL}/150.png",
+    "url": "{HTML_URL}/150.html"
+  },
+  {
+    "id": 151,
+    "name": "Chess Classic",
+    "cover": "{COVER_URL}/151.png",
+    "url": "{HTML_URL}/151.html"
+  },
+  {
+    "id": 152,
+    "name": "Draw the Line",
+    "cover": "{COVER_URL}/152.png",
+    "url": "{HTML_URL}/152.html"
+  },
+  {
+    "id": 153,
+    "name": "Flappy Dunk",
+    "cover": "{COVER_URL}/153.png",
+    "url": "{HTML_URL}/153.html"
+  },
+  {
+    "id": 154,
+    "name": "Fork n Sausage",
+    "cover": "{COVER_URL}/154.png",
+    "url": "{HTML_URL}/154.html"
+  },
+  {
+    "id": 155,
+    "name": "Guess Their Answer",
+    "cover": "{COVER_URL}/155.png",
+    "url": "{HTML_URL}/155.html"
+  },
+  {
+    "id": 156,
+    "name": "Harvest.io",
+    "cover": "{COVER_URL}/156.png",
+    "url": "{HTML_URL}/156.html"
+  },
+  {
+    "id": 157,
+    "name": "Hill Climb Racing Lite",
+    "cover": "{COVER_URL}/157.png",
+    "url": "{HTML_URL}/157.html"
+  },
+  {
+    "id": 158,
+    "name": "Pac-Man Superfast",
+    "cover": "{COVER_URL}/158.png",
+    "url": "{HTML_URL}/158.html"
+  },
+  {
+    "id": 159,
+    "name": "Parking Rush",
+    "cover": "{COVER_URL}/159.png",
+    "url": "{HTML_URL}/159.html"
+  },
+  {
+    "id": 160,
+    "name": "Race Master 3D",
+    "cover": "{COVER_URL}/160.png",
+    "url": "{HTML_URL}/160.html"
+  },
+  {
+    "id": 161,
+    "name": "State.io",
+    "cover": "{COVER_URL}/161.png",
+    "url": "{HTML_URL}/161.html"
+  },
+  {
+    "id": 162,
+    "name": "Tower Crash 3D",
+    "cover": "{COVER_URL}/162.png",
+    "url": "{HTML_URL}/162.html"
+  },
+  {
+    "id": 163,
+    "name": "Trivia Crack",
+    "cover": "{COVER_URL}/163.png",
+    "url": "{HTML_URL}/163.html"
   }
 ]
