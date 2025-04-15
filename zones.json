@@ -993,6 +993,6 @@
     "id": 164,
     "name": "Crazy Cattle 3D",
     "cover": "{COVER_URL}/164.png",
-    "url": "{HTML_URL}/164.html"
+    "url": "https://cdn.jsdelivr.net/gh/gn-math/html@latest/164.html"
   }
 ]
