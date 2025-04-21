@@ -1332,5 +1332,61 @@
     "url": "{HTML_URL}/165.html",
     "author": "cheesechompers3d",
     "authorLink": "https://cheesechompers3d.itch.io/cheese-chompers-3d"
+  },
+  {
+    "id": 166,
+    "name": "Bad Parenting 1",
+    "cover": "{COVER_URL}/166.png",
+    "url": "{HTML_URL}/166.html",
+    "author": "98corbins",
+    "authorLink": ""
+  },
+  {
+    "id": 167,
+    "name": "Blade Ball",
+    "cover": "{COVER_URL}/167.png",
+    "url": "{HTML_URL}/167.html",
+    "author": "??",
+    "authorLink": ""
+  },
+  {
+    "id": 168,
+    "name": "Blocky Snakes",
+    "cover": "{COVER_URL}/168.png",
+    "url": "{HTML_URL}/168.html",
+    "author": "Beedo Games",
+    "authorLink": "https://poki.com/en/g/blocky-snakes"
+  },
+  {
+    "id": 169,
+    "name": "Bloxorz",
+    "cover": "{COVER_URL}/169.png",
+    "url": "{HTML_URL}/169.html",
+    "author": "Damien Clarke",
+    "authorLink": "https://damienclarke.me"
+  },
+  {
+    "id": 170,
+    "name": "Big Tower Tiny Square 2",
+    "cover": "{COVER_URL}/170.png",
+    "url": "{HTML_URL}/170.html",
+    "author": "EO Interactive",
+    "authorLink": "https://apps.apple.com/my/developer/eo-interactive-ltd/id457003279"
+  },
+  {
+    "id": 171,
+    "name": "Candy Crush",
+    "cover": "{COVER_URL}/171.png",
+    "url": "{HTML_URL}/171.html",
+    "author": "King.com",
+    "authorLink": "https://www.king.com/game/candycrush"
+  },
+  {
+    "id": 172,
+    "name": "Melon Playground",
+    "cover": "{COVER_URL}/172.png",
+    "url": "{HTML_URL}/172.html",
+    "author": "playducky.com",
+    "authorLink": "https://playducky.com"
   }
 ]
