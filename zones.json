@@ -1431,7 +1431,7 @@
   },
   {
     "id": 178,
-    "name": "Swords and Sous",
+    "name": "Swords and Souls",
     "cover": "{COVER_URL}/178.png",
     "url": "{HTML_URL}/178.html",
     "author": "Armor Games",
@@ -1476,5 +1476,77 @@
     "url": "{HTML_URL}/183.html",
     "author": "zardoy",
     "authorLink": "https://github.com/zardoy/minecraft-web-client"
+  },
+  {
+    "id": 184,
+    "name": "Undertale",
+    "cover": "{COVER_URL}/184.png",
+    "url": "{HTML_URL}/184.html",
+    "author": "Toby Fox, BluePhoenix25",
+    "authorLink": "https://scratch.mit.edu/projects/791527350"
+  },
+  {
+    "id": 185,
+    "name": "Five Nights at Freddy's: Sister Location",
+    "cover": "{COVER_URL}/185.png",
+    "url": "{HTML_URL}/185.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com"
+  },
+  {
+    "id": 186,
+    "name": "Ragdoll Archers",
+    "cover": "{COVER_URL}/186.png",
+    "url": "{HTML_URL}/186.html",
+    "author": "Ericetto",
+    "authorLink": "https://www.snokido.com/author/ericetto"
+  },
+  {
+    "id": 187,
+    "name": "Papers, Please",
+    "cover": "{COVER_URL}/187.png",
+    "url": "{HTML_URL}/187.html",
+    "author": "Lucas Pope",
+    "authorLink": "https://dukope.com"
+  },
+  {
+    "id": 188,
+    "name": "Scrap Metal 3",
+    "cover": "{COVER_URL}/187.png",
+    "url": "{HTML_URL}/187.html",
+    "author": "Ciorbyn",
+    "authorLink": "https://www.ciorbynstudio.com"
+  },
+  {
+    "id": 189,
+    "name": "Doki Doki Literature Club",
+    "cover": "{COVER_URL}/189.png",
+    "url": "{HTML_URL}/189.html",
+    "author": "Team Salvato",
+    "authorLink": "https://teamsalvato.itch.io/ddlc"
+  },
+  {
+    "id": 190,
+    "name": "Five Nights at Freddy's: World",
+    "cover": "{COVER_URL}/190.png",
+    "url": "{HTML_URL}/190.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com"
+  },
+  {
+    "id": 191,
+    "name": "Five Nights at Freddy's: Pizza Simulator",
+    "cover": "{COVER_URL}/191.png",
+    "url": "{HTML_URL}/191.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com"
+  },
+  {
+    "id": 192,
+    "name": "Five Nights at Freddy's: Ultimate Custom Night",
+    "cover": "{COVER_URL}/192.png",
+    "url": "{HTML_URL}/192.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com"
   }
 ]
