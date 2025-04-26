@@ -1548,5 +1548,37 @@
     "url": "{HTML_URL}/192.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com"
+  },
+  {
+    "id": 193,
+    "name": "Do NOT Take This Cat Home",
+    "cover": "{COVER_URL}/193.png",
+    "url": "{HTML_URL}/193.html",
+    "author": "Pixelliminal",
+    "authorLink": "https://pixeliminal.itch.io/do-not-take-this-cat-home"
+  },
+  {
+    "id": 194,
+    "name": "People Playground",
+    "cover": "{COVER_URL}/194.png",
+    "url": "{HTML_URL}/194.html",
+    "author": "Studio Minus, 98corbins",
+    "authorLink": "https://store.steampowered.com/app/1118200/"
+  },
+  {
+    "id": 195,
+    "name": "R.E.P.O",
+    "cover": "{COVER_URL}/195.png",
+    "url": "{HTML_URL}/195.html",
+    "author": "semiwork, 98corbins",
+    "authorLink": "https://store.steampowered.com/app/3241660/"
+  },
+  {
+    "id": 196,
+    "name": "ULTRAKILL",
+    "cover": "{COVER_URL}/196.png",
+    "url": "{HTML_URL}/196.html",
+    "author": "New Blood Interactive, 98corbins",
+    "authorLink": "https://store.steampowered.com/app/1229490/"
   }
 ]
