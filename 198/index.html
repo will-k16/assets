@@ -58,8 +58,9 @@
                 type: 'application/json'
             });
             let blobUrl = URL.createObjectURL(blob);
-            UnityLoader.instantiate("gameContainer", blobUrl, {
-                onProgress: UnityProgress
+            UnityLoader.instantiate("gameContainer", json, {
+                onProgress: UnityProgress,
+                url: blobUrl
             });
         });
     </script>
