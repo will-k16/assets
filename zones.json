@@ -1588,5 +1588,13 @@
     "url": "{HTML_URL}/197.html",
     "author": "David Li",
     "authorLink": "https://david.li"
+  },
+  {
+    "id": 198,
+    "name": "Slope",
+    "cover": "{COVER_URL}/198.png",
+    "url": "{HTML_URL}/198.html",
+    "author": "coweggs",
+    "authorLink": "https://coweggs.itch.io/slope-plus"
   }
 ]
