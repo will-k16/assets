@@ -1580,5 +1580,13 @@
     "url": "{HTML_URL}/196.html",
     "author": "New Blood Interactive, 98corbins",
     "authorLink": "https://store.steampowered.com/app/1229490/"
+  },
+  {
+    "id": 197,
+    "name": "Elastic Man",
+    "cover": "{COVER_URL}/197.png",
+    "url": "{HTML_URL}/197.html",
+    "author": "David Li",
+    "authorLink": "https://david.li"
   }
 ]
