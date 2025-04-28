@@ -1596,29 +1596,5 @@
     "url": "{HTML_URL}/198.html",
     "author": "coweggs",
     "authorLink": "https://coweggs.itch.io/slope-plus"
-  },
-  {
-    "id": 199,
-    "name": "Dumb Ways to Die",
-    "cover": "{COVER_URL}/199.png",
-    "url": "{HTML_URL}/199.html",
-    "author": "Metro Trains",
-    "authorLink": "https://www.dumbwaystodie.com"
-  },
-  {
-    "id": 200,
-    "name": "Dumb Ways to Die 2 - The Games",
-    "cover": "{COVER_URL}/200.png",
-    "url": "{HTML_URL}/200.html",
-    "author": "Metro Trains",
-    "authorLink": "https://www.dumbwaystodie.com"
-  },
-  {
-    "id": 201,
-    "name": "Dumb Ways to Die 3 - World Tour",
-    "cover": "{COVER_URL}/201.png",
-    "url": "{HTML_URL}/201.html",
-    "author": "Metro Trains",
-    "authorLink": "https://www.dumbwaystodie.com"
   }
 ]
