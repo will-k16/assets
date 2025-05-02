@@ -1596,5 +1596,37 @@
     "url": "{HTML_URL}/198.html",
     "author": "coweggs",
     "authorLink": "https://coweggs.itch.io/slope-plus"
+  },
+  {
+    "id": 199,
+    "name": "Time Shooter 1",
+    "cover": "{COVER_URL}/199.png",
+    "url": "{HTML_URL}/199.html",
+    "author": "g80g",
+    "authorLink": "https://g80g.com"
+  },
+  {
+    "id": 200,
+    "name": "Time Shooter 2",
+    "cover": "{COVER_URL}/200.png",
+    "url": "{HTML_URL}/200.html",
+    "author": "g80g",
+    "authorLink": "https://g80g.com"
+  },
+  {
+    "id": 201,
+    "name": "Time Shooter 3: SWAT",
+    "cover": "{COVER_URL}/201.png",
+    "url": "{HTML_URL}/201.html",
+    "author": "g80g",
+    "authorLink": "https://g80g.com"
+  },
+  {
+    "id": 202,
+    "name": "Carrom Clash",
+    "cover": "{COVER_URL}/202.png",
+    "url": "{HTML_URL}/202.html",
+    "author": "GameSnacks",
+    "authorLink": "https://gamesnacks.com/games/carromclash"
   }
 ]
