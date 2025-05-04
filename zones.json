@@ -1724,5 +1724,13 @@
     "url": "{HTML_URL}/214.html",
     "author": "ZeptoLab",
     "authorLink": "https://www.zeptolab.com"
+  },
+  {
+    "id": 215,
+    "name": "Bendy and the Ink Machine",
+    "cover": "{COVER_URL}/215.png",
+    "url": "{HTML_URL}/215.html",
+    "author": "Joey Drew Studios",
+    "authorLink": "https://www.joeydrewstudios.com/batim"
   }
 ]
