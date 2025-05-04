@@ -1652,5 +1652,77 @@
     "url": "{HTML_URL}/205.html",
     "author": "Mike Klubnika",
     "authorLink": "https://mikeklubnika.itch.io/buckshot-roulette"
+  },
+  {
+    "id": 206,
+    "name": "Tunnel Rush",
+    "cover": "{COVER_URL}/206.png",
+    "url": "{HTML_URL}/206.html",
+    "author": "Deer Cat Games",
+    "authorLink": "http://www.deercatgames.com"
+  },
+  {
+    "id": 207,
+    "name": "Snowbattle.io",
+    "cover": "{COVER_URL}/207.png",
+    "url": "{HTML_URL}/207.html",
+    "author": "Royalec/Tokyo",
+    "authorLink": "https://google.com/search?q=Tokyo+Royalec"
+  },
+  {
+    "id": 208,
+    "name": "Rolly Vortex",
+    "cover": "{COVER_URL}/208.png",
+    "url": "{HTML_URL}/208.html",
+    "author": "Voodoo",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.bdj.vortexDroid&hl=en_US"
+  },
+  {
+    "id": 209,
+    "name": "Draw the Hill",
+    "cover": "{COVER_URL}/209.png",
+    "url": "{HTML_URL}/209.html",
+    "author": "Stelennnn",
+    "authorLink": "https://play.google.com/store/apps/details?id=xyz.gameshtml5.drawathehill&hl=en_US"
+  },
+  {
+    "id": 210,
+    "name": "Dragon vs Bricks",
+    "cover": "{COVER_URL}/210.png",
+    "url": "{HTML_URL}/210.html",
+    "author": "Voodoo",
+    "authorLink": "https://voodoo.io"
+  },
+  {
+    "id": 211,
+    "name": "Death Run 3D",
+    "cover": "{COVER_URL}/211.png",
+    "url": "{HTML_URL}/211.html",
+    "author": "kevin.wang",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.kevin.deathrun3d&hl=en_US"
+  },
+  {
+    "id": 212,
+    "name": "Cut the Rope",
+    "cover": "{COVER_URL}/212.png",
+    "url": "{HTML_URL}/212.html",
+    "author": "ZeptoLab",
+    "authorLink": "https://www.zeptolab.com"
+  },
+  {
+    "id": 213,
+    "name": "Cut the Rope: Time Travel",
+    "cover": "{COVER_URL}/213.png",
+    "url": "{HTML_URL}/213.html",
+    "author": "ZeptoLab",
+    "authorLink": "https://www.zeptolab.com"
+  },
+  {
+    "id": 214,
+    "name": "Cut the Rope: Holiday Gift",
+    "cover": "{COVER_URL}/214.png",
+    "url": "{HTML_URL}/214.html",
+    "author": "ZeptoLab",
+    "authorLink": "https://www.zeptolab.com"
   }
 ]
