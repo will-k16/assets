@@ -2028,5 +2028,13 @@
     "url": "{HTML_URL}/252.html",
     "author": "Pegas Games",
     "authorLink": "http://www.pegasgames.com"
+  },
+  {
+    "id": 253,
+    "name": "Chat Bot (A.|.I)",
+    "cover": "{COVER_URL}/253.png",
+    "url": "{HTML_URL}/253.html",
+    "author": "gn-math",
+    "authorLink": "http://gn-math.github.io"
   }
 ]
