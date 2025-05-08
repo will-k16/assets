@@ -2035,6 +2035,14 @@
     "cover": "{COVER_URL}/253.png",
     "url": "{HTML_URL}/253.html",
     "author": "gn-math",
-    "authorLink": "http://gn-math.github.io"
+    "authorLink": "https://gn-math.github.io"
+  },
+  {
+    "id": 254,
+    "name": "Balatro",
+    "cover": "{COVER_URL}/254.png",
+    "url": "{HTML_URL}/254.html",
+    "author": "LocalThunk",
+    "authorLink": "https://localthunk.com"
   }
 ]
