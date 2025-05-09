@@ -2044,5 +2044,21 @@
     "url": "{HTML_URL}/254.html",
     "author": "LocalThunk",
     "authorLink": "https://localthunk.com"
+  },
+  {
+    "id": 255,
+    "name": "Crazy Chicken 3D",
+    "cover": "{COVER_URL}/255.png",
+    "url": "{HTML_URL}/255.html",
+    "author": "Teasle",
+    "authorLink": "https://teasle.itch.io/crazychicken3d"
+  },
+  {
+    "id": 256,
+    "name": "Crazy Kitty 3D",
+    "cover": "{COVER_URL}/256.png",
+    "url": "{HTML_URL}/256.html",
+    "author": "Teasle",
+    "authorLink": "https://teasle.itch.io/crazykitty3d"
   }
 ]
