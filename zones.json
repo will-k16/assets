@@ -2076,5 +2076,61 @@
     "url": "{HTML_URL}/258.html",
     "author": "Garrett McKay",
     "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys"
+  },
+  {
+    "id": 259,
+    "name": "Class of '09",
+    "cover": "{COVER_URL}/259.png",
+    "url": "{HTML_URL}/259.html",
+    "author": "sbn3",
+    "authorLink": "https://sbn3.com"
+  },
+  {
+    "id": 260,
+    "name": "RE:RUN",
+    "cover": "{COVER_URL}/260.png",
+    "url": "{HTML_URL}/260.html",
+    "author": "DaniDev",
+    "authorLink": "https://danidev.itch.io/rerun"
+  },
+  {
+    "id": 261,
+    "name": "Fruit Ninja",
+    "cover": "{COVER_URL}/261.png",
+    "url": "{HTML_URL}/261.html",
+    "author": "Halfbrick Studios",
+    "authorLink": "https://www.halfbrick.com/games/fruit-ninja-classic"
+  },
+  {
+    "id": 262,
+    "name": "Half Life",
+    "cover": "{COVER_URL}/262.png",
+    "url": "{HTML_URL}/262.html",
+    "author": "Valve",
+    "authorLink": "https://www.valvesoftware.com/en/"
+  },
+  {
+    "id": 263,
+    "name": "Quake III Arena",
+    "cover": "{COVER_URL}/263.png",
+    "url": "{HTML_URL}/263.html",
+    "author": "Id Software",
+    "authorLink": "https://www.idsoftware.com/en"
+  },
+  {
+    "id": 264,
+    "name": "Escape Road",
+    "cover": "{COVER_URL}/264.png",
+    "url": "{HTML_URL}/264.html",
+    "author": "AzGames",
+    "authorLink": "https://azgames.io/escape-road"
+  },
+  {
+    "id": 265,
+    "name": "Escape Road 2",
+    "cover": "{COVER_URL}/265.png",
+    "url": "{HTML_URL}/265.html",
+    "author": "AzGames",
+    "authorLink": "https://azgames.io/escape-road-2"
   }
 ]
