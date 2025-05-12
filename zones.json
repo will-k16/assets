@@ -2132,5 +2132,13 @@
     "url": "{HTML_URL}/265.html",
     "author": "AzGames",
     "authorLink": "https://azgames.io/escape-road-2"
+  },
+  {
+    "id": 266,
+    "name": "Speed Stars",
+    "cover": "{COVER_URL}/266.png",
+    "url": "{HTML_URL}/266.html",
+    "author": "Luke Doukakis",
+    "authorLink": "https://store.steampowered.com/app/1482700/Speed_Stars/"
   }
 ]
