@@ -2140,5 +2140,13 @@
     "url": "{HTML_URL}/266.html",
     "author": "Luke Doukakis",
     "authorLink": "https://store.steampowered.com/app/1482700/Speed_Stars/"
+  },
+  {
+    "id": 267,
+    "name": "Pizza Tower",
+    "cover": "{COVER_URL}/267.png",
+    "url": "{HTML_URL}/267.html",
+    "author": "Tour De Pizza",
+    "authorLink": "https://store.steampowered.com/app/2231450/Pizza_Tower/"
   }
 ]
