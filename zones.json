@@ -2284,5 +2284,13 @@
     "url": "{HTML_URL}/284.html",
     "author": "BANZAI",
     "authorLink": "https://banzai.games/en/"
+  },
+  {
+    "id": 285,
+    "name": "Basket Bros",
+    "cover": "{COVER_URL}/285.png",
+    "url": "{HTML_URL}/285.html",
+    "author": "Blue Wizard Digital",
+    "authorLink": "https://bluewizard.com"
   }
 ]
