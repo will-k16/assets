@@ -2292,5 +2292,77 @@
     "url": "{HTML_URL}/285.html",
     "author": "Blue Wizard Digital",
     "authorLink": "https://bluewizard.com"
+  },
+  {
+    "id": 286,
+    "name": "Endoparasitic",
+    "cover": "{COVER_URL}/286.png",
+    "url": "{HTML_URL}/286.html",
+    "author": "Deep Root Interactive",
+    "authorLink": "https://store.steampowered.com/app/2124780/Endoparasitic/"
+  },
+  {
+    "id": 287,
+    "name": "Riddle School",
+    "cover": "{COVER_URL}/287.png",
+    "url": "{HTML_URL}/287.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com"
+  },
+  {
+    "id": 288,
+    "name": "Riddle School 2",
+    "cover": "{COVER_URL}/288.png",
+    "url": "{HTML_URL}/288.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com"
+  },
+  {
+    "id": 289,
+    "name": "Riddle School 3",
+    "cover": "{COVER_URL}/289.png",
+    "url": "{HTML_URL}/289.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com"
+  },
+  {
+    "id": 290,
+    "name": "Riddle School 4",
+    "cover": "{COVER_URL}/290.png",
+    "url": "{HTML_URL}/290.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com"
+  },
+  {
+    "id": 291,
+    "name": "Riddle School 5",
+    "cover": "{COVER_URL}/291.png",
+    "url": "{HTML_URL}/291.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com"
+  },
+  {
+    "id": 292,
+    "name": "Riddle Transfer",
+    "cover": "{COVER_URL}/292.png",
+    "url": "{HTML_URL}/292.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com"
+  },
+  {
+    "id": 293,
+    "name": "Riddle Transfer 2",
+    "cover": "{COVER_URL}/293.png",
+    "url": "{HTML_URL}/293.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com"
+  },
+  {
+    "id": 294,
+    "name": "Idle Dice",
+    "cover": "{COVER_URL}/294.png",
+    "url": "{HTML_URL}/294.html",
+    "author": "Lutz Schönfelder",
+    "authorLink": "https://github.com/luts91"
   }
 ]
