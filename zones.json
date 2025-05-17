@@ -2364,5 +2364,21 @@
     "url": "{HTML_URL}/294.html",
     "author": "Lutz Schönfelder",
     "authorLink": "https://github.com/luts91"
+  },
+  {
+    "id": 295,
+    "name": "12 Mini Battles",
+    "cover": "{COVER_URL}/295.png",
+    "url": "{HTML_URL}/295.html",
+    "author": "Shared Dreams Studio",
+    "authorLink": "https://play.google.com/store/apps/dev?id=6107531068522107777&hl=en_US"
+  },
+  {
+    "id": 296,
+    "name": "Play!.js",
+    "cover": "{COVER_URL}/296.png",
+    "url": "{HTML_URL}/296.html",
+    "author": "jpd002",
+    "authorLink": "https://github.com/jpd002/Play-"
   }
 ]
