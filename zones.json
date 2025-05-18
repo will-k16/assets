@@ -2468,29 +2468,5 @@
     "url": "{HTML_URL}/307.html",
     "author": "emolingo games",
     "authorLink": "https://emolingo.games"
-  },
-  {
-    "id": 308,
-    "name": "Super Falling Fred",
-    "cover": "{COVER_URL}/308.png",
-    "url": "{HTML_URL}/308.html",
-    "author": "Dedalord",
-    "authorLink": "https://dedalord.com"
-  },
-  {
-    "id": 309,
-    "name": "Running Fred",
-    "cover": "{COVER_URL}/309.png",
-    "url": "{HTML_URL}/309.html",
-    "author": "Dedalord",
-    "authorLink": "https://dedalord.com"
-  },
-  {
-    "id": 310,
-    "name": "Skiing Fred",
-    "cover": "{COVER_URL}/310.png",
-    "url": "{HTML_URL}/310.html",
-    "author": "Dedalord",
-    "authorLink": "https://dedalord.com"
   }
 ]
