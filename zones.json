@@ -2484,5 +2484,45 @@
     "url": "{HTML_URL}/309.html",
     "author": "R74N",
     "authorLink": "https://store.steampowered.com/app/3664820/Sandboxels/"
+  },
+  {
+    "id": 310,
+    "name": "Dreadhead Parkour",
+    "cover": "{COVER_URL}/310.png",
+    "url": "{HTML_URL}/310.html",
+    "author": "GameTornado",
+    "authorLink": "https://gametornado.com/"
+  },
+  {
+    "id": 311,
+    "name": "Sandtris",
+    "cover": "{COVER_URL}/311.png",
+    "url": "{HTML_URL}/311.html",
+    "author": "FRANCO MIRANDA",
+    "authorLink": "https://francomiranda.com"
+  },
+  {
+    "id": 312,
+    "name": "BlackJack",
+    "cover": "{COVER_URL}/312.png",
+    "url": "{HTML_URL}/312.html",
+    "author": "Synic-dx",
+    "authorLink": "https://github.com/Synic-dx/blackJack/"
+  },
+  {
+    "id": 313,
+    "name": "Minesweeper Mania",
+    "cover": "{COVER_URL}/313.png",
+    "url": "{HTML_URL}/313.html",
+    "author": "gamesnacks",
+    "authorLink": "https://gamesnacks.com"
+  },
+  {
+    "id": 314,
+    "name": "Super Mario 63",
+    "cover": "{COVER_URL}/314.png",
+    "url": "{HTML_URL}/314.html",
+    "author": "Runouw",
+    "authorLink": "https://runouw.com/games/"
   }
 ]
