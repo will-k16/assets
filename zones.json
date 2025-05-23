@@ -2524,5 +2524,13 @@
     "url": "{HTML_URL}/314.html",
     "author": "Runouw",
     "authorLink": "https://runouw.com/games/"
+  },
+  {
+    "id": 315,
+    "name": "Jelly Mario",
+    "cover": "{COVER_URL}/315.png",
+    "url": "{HTML_URL}/315.html",
+    "author": "Schteppe",
+    "authorLink": "https://x.com/schteppe"
   }
 ]
