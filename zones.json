@@ -2596,5 +2596,53 @@
     "url": "{HTML_URL}/323.html",
     "author": "MOONEE PUBLISHING LTD",
     "authorLink": "https://play.google.com/store/apps/details?id=net.wyvernware.whosthealien"
+  },
+  {
+    "id": 324,
+    "name": "Maze Speedrun",
+    "cover": "{COVER_URL}/324.png",
+    "url": "{HTML_URL}/324.html",
+    "author": "Raval Matic",
+    "authorLink": "https://www.ravalmatic.com"
+  },
+  {
+    "id": 325,
+    "name": "Kitchen Bazar",
+    "cover": "{COVER_URL}/325.png",
+    "url": "{HTML_URL}/325.html",
+    "author": "Gameloft",
+    "authorLink": "https://www.gameloft.com"
+  },
+  {
+    "id": 326,
+    "name": "Pokey Ball",
+    "cover": "{COVER_URL}/326.png",
+    "url": "{HTML_URL}/326.html",
+    "author": "Voodoo",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.lawson.poke"
+  },
+  {
+    "id": 327,
+    "name": "Slime.io",
+    "cover": "{COVER_URL}/327.png",
+    "url": "{HTML_URL}/327.html",
+    "author": "GameSnacks",
+    "authorLink": "https://gamesnacks.com/games/slime-io"
+  },
+  {
+    "id": 328,
+    "name": "Om Nom Run",
+    "cover": "{COVER_URL}/328.png",
+    "url": "{HTML_URL}/328.html",
+    "author": "ZeptoLab",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.zeptolab.omnomrun.google"
+  },
+  {
+    "id": 329,
+    "name": "TileTopia",
+    "cover": "{COVER_URL}/329.png",
+    "url": "{HTML_URL}/329.html",
+    "author": "GameSnacks",
+    "authorLink": "https://gamesnacks.com/games/6nilllqpgkm6o"
   }
 ]
