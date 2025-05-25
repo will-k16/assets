@@ -2548,5 +2548,53 @@
     "url": "{HTML_URL}/317.html",
     "author": "maxbittker",
     "authorLink": "https://x.com/maxbittker"
+  },
+  {
+    "id": 318,
+    "name": "Side Effects",
+    "cover": "{COVER_URL}/318.png",
+    "url": "{HTML_URL}/318.html",
+    "author": "hi rohun, Mr.Pootsley, Jaybooty",
+    "authorLink": "https://hirohun.itch.io/side-effects"
+  },
+  {
+    "id": 319,
+    "name": "Build a Queen",
+    "cover": "{COVER_URL}/319.png",
+    "url": "{HTML_URL}/319.html",
+    "author": "Supersonic Studios LTD",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.Polystation.BuildABabe"
+  },
+  {
+    "id": 320,
+    "name": "3D Bowling",
+    "cover": "{COVER_URL}/320.png",
+    "url": "{HTML_URL}/320.html",
+    "author": "Italic Games",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.threed.bowling"
+  },
+  {
+    "id": 321,
+    "name": "Room Sort",
+    "cover": "{COVER_URL}/321.png",
+    "url": "{HTML_URL}/321.html",
+    "author": "Gamincat",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.gamincat.roomsort"
+  },
+  {
+    "id": 322,
+    "name": "Sushi Roll",
+    "cover": "{COVER_URL}/322.png",
+    "url": "{HTML_URL}/322.html",
+    "author": "Famobi",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.suhsiroll"
+  },
+  {
+    "id": 323,
+    "name": "Find the Alien",
+    "cover": "{COVER_URL}/323.png",
+    "url": "{HTML_URL}/323.html",
+    "author": "MOONEE PUBLISHING LTD",
+    "authorLink": "https://play.google.com/store/apps/details?id=net.wyvernware.whosthealien"
   }
 ]
