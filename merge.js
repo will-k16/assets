@@ -1,12 +1,16 @@
+window.universallength = 0;
+window.universalloaded = 0;
+
 window.mergeFiles = function(fileParts) {
     return new Promise((resolve, reject) => {
         let buffers = [];
 
         function fetchPart(index) {
             if (index >= fileParts.length) {
+                window.universalloaded++;
                 let mergedBlob = new Blob(buffers);
                 let mergedFileUrl = URL.createObjectURL(mergedBlob);
-                document.getElementById("loading-text").textContent = "Loading... "+index+"/"+fileParts.length;
+                document.getElementById("loading-text").textContent = "LOADING... "+window.universalloaded+"/"+window.universallength;
                 resolve(mergedFileUrl);
                 return;
             }
@@ -27,5 +31,6 @@ window.getParts = function(file, start, end) {
     for (let i = start; i <= end; i++) {
         parts.push(file + ".part" + i);
     }
+    window.universallength = window.universallength+parts.length;
     return parts;
 };
