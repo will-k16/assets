@@ -2767,10 +2767,26 @@
   },
   {
     "id": 345,
-    "name": "Raft Wars",
+    "name": "Raft Wars 2",
     "cover": "{COVER_URL}/345.png",
     "url": "{HTML_URL}/345.html",
     "author": "GaZZer Game",
     "authorLink": "https://play.google.com/store/apps/dev?id=8915125137205442318"
+  },
+  {
+    "id": 346,
+    "name": "Sort the Court",
+    "cover": "{COVER_URL}/346.png",
+    "url": "{HTML_URL}/346.html",
+    "author": "graebor",
+    "authorLink": "https://x.com/graebor"
+  },
+  {
+    "id": 347,
+    "name": "SpiderDoll",
+    "cover": "{COVER_URL}/347.png",
+    "url": "{HTML_URL}/347.html",
+    "author": "Ysopprod",
+    "authorLink": "https://ysopprod.newgrounds.com"
   }
 ]
