@@ -2788,5 +2788,29 @@
     "url": "{HTML_URL}/347.html",
     "author": "Ysopprod",
     "authorLink": "https://ysopprod.newgrounds.com"
+  },
+  {
+    "id": 348,
+    "name": "They Are Coming",
+    "cover": "{COVER_URL}/348.png",
+    "url": "{HTML_URL}/348.html",
+    "author": "OnHit Developments",
+    "authorLink": "https://play.google.com/store/apps/details?id=dev.onhit.theyarecoming"
+  },
+  {
+    "id": 349,
+    "name": "Spiral Roll",
+    "cover": "{COVER_URL}/349.png",
+    "url": "{HTML_URL}/349.html",
+    "author": "Voodoo",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.Celltop.SpiralRoll"
+  },
+  {
+    "id": 350,
+    "name": "Binding of Issac: Wrath of the Lamb",
+    "cover": "{COVER_URL}/350.png",
+    "url": "{HTML_URL}/350.html",
+    "author": "Edmund McMillen",
+    "authorLink": "https://store.steampowered.com/app/113204/Binding_of_Isaac_Wrath_of_the_Lamb/"
   }
 ]
