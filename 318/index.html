@@ -14,7 +14,7 @@
 
 <body>
     <div id="loading-text" style="color: black; font-family: cursive; font-size: 48px; text-align: center; margin-top: 20px;">LOADING...</div>
-    <div id="unity-container">
+    <div id="unity-container" hidden>
         <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
         <div id="unity-loading-bar">
             <div id="unity-logo"></div>
@@ -39,6 +39,7 @@
             var loadingBar = document.querySelector("#unity-loading-bar");
             var progressBarFull = document.querySelector("#unity-progress-bar-full");
             var warningBanner = document.querySelector("#unity-warning");
+            container.removeAttribute("hidden");
 
             function unityShowBanner(msg, type) {
                 
@@ -48,7 +49,7 @@
             var config = {
                 arguments: [],
                 dataUrl: dataUrl,
-                frameworkUrl: buildUrl + "/SideEffectsWebBuild_V0.1.framework.js.br",
+                frameworkUrl: buildUrl + "/SideEffectsWebBuild_V0.1.framework.js",
                 codeUrl: wasmUrl,
                 streamingAssetsUrl: "StreamingAssets",
                 companyName: "DefaultCompany",

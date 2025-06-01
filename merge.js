@@ -7,10 +7,8 @@ window.mergeFiles = function(fileParts) {
 
         function fetchPart(index) {
             if (index >= fileParts.length) {
-                window.universalloaded++;
                 let mergedBlob = new Blob(buffers);
                 let mergedFileUrl = URL.createObjectURL(mergedBlob);
-                document.getElementById("loading-text").textContent = "LOADING... "+window.universalloaded+"/"+window.universallength;
                 resolve(mergedFileUrl);
                 return;
             }
@@ -18,6 +16,8 @@ window.mergeFiles = function(fileParts) {
                 if (!response.ok) throw new Error("Missing part: " + fileParts[index]);
                 return response.arrayBuffer();
             }).then((data) => {
+                window.universalloaded++;
+                document.getElementById("loading-text").textContent = "LOADING... "+window.universalloaded+"/"+window.universallength;
                 buffers.push(data);
                 fetchPart(index + 1);
             }).catch(reject);
