@@ -2812,5 +2812,197 @@
     "url": "{HTML_URL}/350.html",
     "author": "Edmund McMillen",
     "authorLink": "https://store.steampowered.com/app/113204/Binding_of_Isaac_Wrath_of_the_Lamb/"
+  },
+  {
+    "id": 351,
+    "name": "Happy Sheepies",
+    "cover": "{COVER_URL}/351.png",
+    "url": "{HTML_URL}/351.html",
+    "author": "Berker Games",
+    "authorLink": "https://berkergames.itch.io/happy-sheepies"
+  },
+  {
+    "id": 352,
+    "name": "DON'T YOU LECTURE ME",
+    "cover": "{COVER_URL}/352.png",
+    "url": "{HTML_URL}/352.html",
+    "author": "GD Colon",
+    "authorLink": "https://thirtydollar.website"
+  },
+  {
+    "id": 353,
+    "name": "Blumgi Rocket",
+    "cover": "{COVER_URL}/353.png",
+    "url": "{HTML_URL}/353.html",
+    "author": "Blumgi",
+    "authorLink": "https://blumgi.com"
+  },
+  {
+    "id": 354,
+    "name": "Adventure Capatalist",
+    "cover": "{COVER_URL}/354.png",
+    "url": "{HTML_URL}/354.html",
+    "author": "Hyper Hippo Games",
+    "authorLink": "https://store.steampowered.com/app/346900/AdVenture_Capitalist/"
+  },
+  {
+    "id": 355,
+    "name": "Dadish 2",
+    "cover": "{COVER_URL}/355.png",
+    "url": "{HTML_URL}/355.html",
+    "author": "Thomas K. Young",
+    "authorLink": "https://x.com/tommy_ill"
+  },
+  {
+    "id": 356,
+    "name": "Dadish 3",
+    "cover": "{COVER_URL}/356.png",
+    "url": "{HTML_URL}/356.html",
+    "author": "Thomas K. Young",
+    "authorLink": "https://x.com/tommy_ill"
+  },
+  {
+    "id": 357,
+    "name": "Dadish",
+    "cover": "{COVER_URL}/357.png",
+    "url": "{HTML_URL}/357.html",
+    "author": "Thomas K. Young",
+    "authorLink": "https://x.com/tommy_ill"
+  },
+  {
+    "id": 358,
+    "name": "Dadish 3D",
+    "cover": "{COVER_URL}/358.png",
+    "url": "{HTML_URL}/358.html",
+    "author": "Thomas K. Young",
+    "authorLink": "https://x.com/tommy_ill"
+  },
+  {
+    "id": 359,
+    "name": "Daily Dadish",
+    "cover": "{COVER_URL}/359.png",
+    "url": "{HTML_URL}/359.html",
+    "author": "Thomas K. Young",
+    "authorLink": "https://x.com/tommy_ill"
+  },
+  {
+    "id": 360,
+    "name": "EvoWars.io",
+    "cover": "{COVER_URL}/360.png",
+    "url": "{HTML_URL}/360.html",
+    "author": "Night Steed S.C.",
+    "authorLink": "https://play.google.com/store/apps/dev?id=6316404222579633373"
+  },
+  {
+    "id": 361,
+    "name": "Google Feud",
+    "cover": "{COVER_URL}/361.png",
+    "url": "{HTML_URL}/361.html",
+    "author": "Justin Hook",
+    "authorLink": "https://justinhook.com"
+  },
+  {
+    "id": 362,
+    "name": "Idle Breakout",
+    "cover": "{COVER_URL}/362.png",
+    "url": "{HTML_URL}/362.html",
+    "author": "Kodiqi",
+    "authorLink": "https://kodiqi.itch.io"
+  },
+  {
+    "id": 363,
+    "name": "Idle Lumber Inc",
+    "cover": "{COVER_URL}/363.png",
+    "url": "{HTML_URL}/363.html",
+    "author": "NoPowerUp",
+    "authorLink": "https://nopowerup.com/our-game/"
+  },
+  {
+    "id": 364,
+    "name": "Idle Mining Empire",
+    "cover": "{COVER_URL}/364.png",
+    "url": "{HTML_URL}/364.html",
+    "author": "marketjs",
+    "authorLink": "https://www.marketjs.com/"
+  },
+  {
+    "id": 365,
+    "name": "JustFall.lol",
+    "cover": "{COVER_URL}/365.png",
+    "url": "{HTML_URL}/365.html",
+    "author": "JustPlay.LOL",
+    "authorLink": "https://play.google.com/store/apps/dev?id=7065081805875144950"
+  },
+  {
+    "id": 366,
+    "name": "Merge Harvest",
+    "cover": "{COVER_URL}/366.png",
+    "url": "{HTML_URL}/366.html",
+    "author": "idfk",
+    "authorLink": "https://gn-math.github.io"
+  },
+  {
+    "id": 367,
+    "name": "Parking Fury 3D",
+    "cover": "{COVER_URL}/367.png",
+    "url": "{HTML_URL}/367.html",
+    "author": "Brain Software",
+    "authorLink": "https://poki.com/en/g/parking-fury-3d"
+  },
+  {
+    "id": 368,
+    "name": "Slope 2",
+    "cover": "{COVER_URL}/368.png",
+    "url": "{HTML_URL}/368.html",
+    "author": "idfk",
+    "authorLink": "https://gn-math.github.io"
+  },
+  {
+    "id": 369,
+    "name": "Slowroads",
+    "cover": "{COVER_URL}/369.png",
+    "url": "{HTML_URL}/369.html",
+    "author": "Topograph Interactive",
+    "authorLink": "https://store.steampowered.com/app/3431300/Slow_Roads/"
+  },
+  {
+    "id": 370,
+    "name": "Smash Karts",
+    "cover": "{COVER_URL}/370.png",
+    "url": "{HTML_URL}/370.html",
+    "author": "Tall Team",
+    "authorLink": "https://tall.team/"
+  },
+  {
+    "id": 371,
+    "name": "Stickman Fight Ragdoll",
+    "cover": "{COVER_URL}/371.png",
+    "url": "{HTML_URL}/371.html",
+    "author": "Vanorium",
+    "authorLink": "https://playem.io/dev/vanorium"
+  },
+  {
+    "id": 372,
+    "name": "Stickman Boost",
+    "cover": "{COVER_URL}/372.png",
+    "url": "{HTML_URL}/372.html",
+    "author": "y8",
+    "authorLink": "https://www.y8.com/games/stickman_boost"
+  },
+  {
+    "id": 373,
+    "name": "Stickman Climb",
+    "cover": "{COVER_URL}/373.png",
+    "url": "{HTML_URL}/373.html",
+    "author": "No Pressure Studios",
+    "authorLink": "https://www.nopressurestudios.com"
+  },
+  {
+    "id": 374,
+    "name": "Stickman Golf",
+    "cover": "{COVER_URL}/374.png",
+    "url": "{HTML_URL}/374.html",
+    "author": "NoodleCake",
+    "authorLink": "https://noodlecake.com"
   }
 ]
