@@ -876,11 +876,11 @@ var YaGames;
                     }
                     postToParent(e) {
                         const t = this._parentTarget;
-                        return t ? this._post(t, e) : null
+                        return t ? this._post(t, e) : Promise.resolve()
                     }
                     postCallback(e) {
                         const t = this._parentTarget;
-                        return t ? this._post(t, e) : null
+                        return t ? this._post(t, e) : Promise.resolve()
                     }
                     logError(e, t) {
                         const n = (0, s.U)("sdk", t, e);
