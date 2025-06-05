@@ -876,11 +876,11 @@ var YaGames;
                     }
                     postToParent(e) {
                         const t = this._parentTarget;
-                        return t ? this._post(t, e) : Promise.reject(new Error("No parent to post message"))
+                        return t ? this._post(t, e) : null
                     }
                     postCallback(e) {
                         const t = this._parentTarget;
-                        return t ? this._post(t, e) : Promise.reject(new Error(`No child to post message: type = ${e.type}, action = ${e.action}`))
+                        return t ? this._post(t, e) : null
                     }
                     logError(e, t) {
                         const n = (0, s.U)("sdk", t, e);
