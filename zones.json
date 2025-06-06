@@ -3388,5 +3388,13 @@
     "url": "{HTML_URL}/422.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games"
+  },
+  {
+    "id": 423,
+    "name": "WebFishing",
+    "cover": "{COVER_URL}/423.png",
+    "url": "{HTML_URL}/423.html",
+    "author": "LameDev",
+    "authorLink": "https://store.steampowered.com/app/3146520/WEBFISHING/"
   }
 ]
