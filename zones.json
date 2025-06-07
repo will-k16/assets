@@ -3396,5 +3396,13 @@
     "url": "{HTML_URL}/423.html",
     "author": "LameDev",
     "authorLink": "https://store.steampowered.com/app/3146520/WEBFISHING/"
+  },
+  {
+    "id": 424,
+    "name": "BFDI: Branches",
+    "cover": "{COVER_URL}/424.png",
+    "url": "{HTML_URL}/424.html",
+    "author": "Team Branches",
+    "authorLink": "https://teambranches.itch.io/bfdi-branches/"
   }
 ]
