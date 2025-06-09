@@ -3404,5 +3404,13 @@
     "url": "{HTML_URL}/424.html",
     "author": "Team Branches",
     "authorLink": "https://teambranches.itch.io/bfdi-branches/"
+  },
+  {
+    "id": 425,
+    "name": "Deltarune",
+    "cover": "{COVER_URL}/425.png",
+    "url": "{HTML_URL}/425.html",
+    "author": "Toby Fox",
+    "authorLink": "https://deltarune.com"
   }
 ]
