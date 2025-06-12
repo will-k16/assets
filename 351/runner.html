@@ -8,7 +8,7 @@
 	<!-- For Favicons -->
     <link rel="icon" type="x-icon" href="favicon.png">
 	<!-- For Page Title -->
-    <title>happy sheepies</title>
+    <title>Happy Sheepies</title>
     <style>
       @-webkit-keyframes rotation {
         from {
@@ -357,12 +357,13 @@
     </div>
     <div class="output-container" id="output-container">
 	  <!-- Stock Toggle Console Button -->
-	    <!-- Join Discord Server Button -->
+    </div>
 
     <div id="message-container">
       <div id="messages">
       </div>
     </div>
+	<!-- Ads Stuff for games that need it -->
    <script async
      data-ad-client="ca-pub-123"
      data-ad-frequency-hint="30s"
@@ -376,11 +377,13 @@
    </script>
 
     <script type="text/javascript">
+	// Background Color Changer Function
 	function changecolor(el) {
 		document.body.style.backgroundColor = el.value;
 	}
 	
       const CHANGE_ASPECT_RATIO = true;
+		// Main Page Elements
       var bodyElement = document.getElementsByTagName("body")[0];
       var statusElement = document.getElementById("status");
       var progressElement = document.getElementById("progress");
@@ -552,7 +555,20 @@
 	  // All Button Functions
 	  
 		// Stock Toggle Console Function
+      function toggleConsole() {
+        var isShown = outputElement.style.display === "flex";
+        if (isShown) {
+          outputElement.style.display = "none";
+          outputElement.scrollIntoView(false);
+        } else {
+          outputElement.style.display = "flex";
+          outputElement.scrollIntoView(true);
+        }
+      }
 		// Go To Github Function
+      function togglegithub() {
+	    window.open("https://github.com/burnedpopcorn/Pizza-Tower-1.1.0-Web-Port", '_blank').focus();
+      }
 		// Clear Site Cache Function
       function toggleclear_site_cache() {
 	  // Trigger Choice Popup
