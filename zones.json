@@ -11,7 +11,8 @@
     "cover": "{COVER_URL}/0.png",
     "url": "{HTML_URL}/0.html",
     "author": "Azur Games, Playgendary",
-    "authorLink": "https://azurgames.com"
+    "authorLink": "https://azurgames.com",
+    "featured": true
   },
   {
     "id": 1,
@@ -35,7 +36,8 @@
     "cover": "{COVER_URL}/3.png",
     "url": "{HTML_URL}/3.html",
     "author": "Dedra Games",
-    "authorLink": "https://dedragames.com"
+    "authorLink": "https://dedragames.com",
+    "featured": true
   },
   {
     "id": 4,
@@ -59,7 +61,8 @@
     "cover": "{COVER_URL}/6.png",
     "url": "{HTML_URL}/6.html",
     "author": "reunbozdo",
-    "authorLink": "https://reunbozdo.github.io"
+    "authorLink": "https://reunbozdo.github.io",
+    "featured": true
   },
   {
     "id": 7,
@@ -275,7 +278,8 @@
     "cover": "{COVER_URL}/33.png",
     "url": "{HTML_URL}/33.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
+    "featured": true
   },
   {
     "id": 34,
@@ -611,7 +615,8 @@
     "cover": "{COVER_URL}/75.png",
     "url": "{HTML_URL}/75.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
+    "featured": true
   },
   {
     "id": 76,
@@ -731,7 +736,8 @@
     "cover": "{COVER_URL}/90.png",
     "url": "{HTML_URL}/90.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
+    "featured": true
   },
   {
     "id": 91,
@@ -947,7 +953,8 @@
     "cover": "{COVER_URL}/117.png",
     "url": "{HTML_URL}/117.html",
     "author": "",
-    "authorLink": ""
+    "authorLink": "",
+    "featured": true
   },
   {
     "id": 118,
@@ -1323,7 +1330,8 @@
     "cover": "{COVER_URL}/164.png",
     "url": "{HTML_URL}/164-temp2.html",
     "author": "4nn4t4t",
-    "authorLink": "https://4nn4t4t.itch.io/crazycattle3d"
+    "authorLink": "https://4nn4t4t.itch.io/crazycattle3d",
+    "featured": true
   },
   {
     "id": 165,
@@ -1331,7 +1339,8 @@
     "cover": "{COVER_URL}/165.png",
     "url": "{HTML_URL}/165.html",
     "author": "cheesechompers3d",
-    "authorLink": "https://cheesechompers3d.itch.io/cheese-chompers-3d"
+    "authorLink": "https://cheesechompers3d.itch.io/cheese-chompers-3d",
+    "featured": true
   },
   {
     "id": 166,
@@ -1339,7 +1348,8 @@
     "cover": "{COVER_URL}/166.png",
     "url": "{HTML_URL}/166.html",
     "author": "98corbins",
-    "authorLink": "https://98corbins.netlify.app"
+    "authorLink": "https://98corbins.netlify.app",
+    "featured": true
   },
   {
     "id": 167,
@@ -1443,7 +1453,8 @@
     "cover": "{COVER_URL}/179.png",
     "url": "{HTML_URL}/179.html",
     "author": "genizy",
-    "authorLink": "https://github.com/genizy/soundboard/"
+    "authorLink": "https://github.com/genizy/soundboard/",
+    "featured": true
   },
   {
     "id": 180,
@@ -1467,7 +1478,8 @@
     "cover": "{COVER_URL}/182.png",
     "url": "{HTML_URL}/182.html",
     "author": "lax1dude",
-    "authorLink": "https://eaglercraft.com"
+    "authorLink": "https://eaglercraft.com",
+    "featured": true
   },
   {
     "id": 183,
@@ -1483,7 +1495,8 @@
     "cover": "{COVER_URL}/184.png",
     "url": "{HTML_URL}/184.html",
     "author": "Toby Fox, BluePhoenix25",
-    "authorLink": "https://scratch.mit.edu/projects/791527350"
+    "authorLink": "https://scratch.mit.edu/projects/791527350",
+    "featured": true
   },
   {
     "id": 185,
@@ -1523,7 +1536,8 @@
     "cover": "{COVER_URL}/189.png",
     "url": "{HTML_URL}/189.html",
     "author": "Team Salvato",
-    "authorLink": "https://teamsalvato.itch.io/ddlc"
+    "authorLink": "https://teamsalvato.itch.io/ddlc",
+    "featured": true
   },
   {
     "id": 190,
@@ -1555,7 +1569,8 @@
     "cover": "{COVER_URL}/193.png",
     "url": "{HTML_URL}/193.html",
     "author": "Pixelliminal",
-    "authorLink": "https://pixeliminal.itch.io/do-not-take-this-cat-home"
+    "authorLink": "https://pixeliminal.itch.io/do-not-take-this-cat-home",
+    "featured": true
   },
   {
     "id": 194,
@@ -1563,7 +1578,8 @@
     "cover": "{COVER_URL}/194.png",
     "url": "{HTML_URL}/194.html",
     "author": "Studio Minus, 98corbins",
-    "authorLink": "https://store.steampowered.com/app/1118200/"
+    "authorLink": "https://store.steampowered.com/app/1118200/",
+    "featured": true
   },
   {
     "id": 195,
@@ -1571,7 +1587,8 @@
     "cover": "{COVER_URL}/195.png",
     "url": "{HTML_URL}/195.html",
     "author": "semiwork, 98corbins",
-    "authorLink": "https://store.steampowered.com/app/3241660/"
+    "authorLink": "https://store.steampowered.com/app/3241660/",
+    "featured": true
   },
   {
     "id": 196,
@@ -1579,7 +1596,8 @@
     "cover": "{COVER_URL}/196.png",
     "url": "{HTML_URL}/196.html",
     "author": "New Blood Interactive, 98corbins",
-    "authorLink": "https://store.steampowered.com/app/1229490/"
+    "authorLink": "https://store.steampowered.com/app/1229490/",
+    "featured": true
   },
   {
     "id": 197,
@@ -1595,7 +1613,8 @@
     "cover": "{COVER_URL}/198.png",
     "url": "{HTML_URL}/198.html",
     "author": "coweggs",
-    "authorLink": "https://coweggs.itch.io/slope-plus"
+    "authorLink": "https://coweggs.itch.io/slope-plus",
+    "featured": true
   },
   {
     "id": 199,
@@ -1651,7 +1670,8 @@
     "cover": "{COVER_URL}/205.png",
     "url": "{HTML_URL}/205.html",
     "author": "Mike Klubnika",
-    "authorLink": "https://mikeklubnika.itch.io/buckshot-roulette"
+    "authorLink": "https://mikeklubnika.itch.io/buckshot-roulette",
+    "featured": true
   },
   {
     "id": 206,
@@ -1731,7 +1751,8 @@
     "cover": "{COVER_URL}/215.png",
     "url": "{HTML_URL}/215.html",
     "author": "Joey Drew Studios",
-    "authorLink": "https://www.joeydrewstudios.com/batim"
+    "authorLink": "https://www.joeydrewstudios.com/batim",
+    "featured": true
   },
   {
     "id": 216,
@@ -1739,7 +1760,8 @@
     "cover": "{COVER_URL}/216.png",
     "url": "{HTML_URL}/216.html",
     "author": "Nacho Games",
-    "authorLink": "https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/"
+    "authorLink": "https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/",
+    "featured": true
   },
   {
     "id": 217,
@@ -1747,7 +1769,8 @@
     "cover": "{COVER_URL}/217.png",
     "url": "{HTML_URL}/217.html",
     "author": "Dennaton Games",
-    "authorLink": "https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/"
+    "authorLink": "https://store.steampowered.com/app/219150/Hotline_Miami/",
+    "featured": true
   },
   {
     "id": 218,
@@ -2035,7 +2058,8 @@
     "cover": "{COVER_URL}/253.png",
     "url": "{HTML_URL}/253.html",
     "author": "gn-math",
-    "authorLink": "https://gn-math.github.io"
+    "authorLink": "https://gn-math.github.io",
+    "featured": true
   },
   {
     "id": 254,
@@ -2043,7 +2067,8 @@
     "cover": "{COVER_URL}/254.png",
     "url": "{HTML_URL}/254.html",
     "author": "LocalThunk",
-    "authorLink": "https://localthunk.com"
+    "authorLink": "https://localthunk.com",
+    "featured": true
   },
   {
     "id": 255,
@@ -2075,7 +2100,8 @@
     "cover": "{COVER_URL}/258.png",
     "url": "{HTML_URL}/258.html",
     "author": "Garrett McKay",
-    "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys"
+    "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys",
+    "featured": true
   },
   {
     "id": 259,
@@ -2083,7 +2109,8 @@
     "cover": "{COVER_URL}/259.png",
     "url": "{HTML_URL}/259.html",
     "author": "sbn3",
-    "authorLink": "https://sbn3.com"
+    "authorLink": "https://sbn3.com",
+    "featured": true
   },
   {
     "id": 260,
@@ -2091,7 +2118,8 @@
     "cover": "{COVER_URL}/260.png",
     "url": "{HTML_URL}/260.html",
     "author": "DaniDev",
-    "authorLink": "https://danidev.itch.io/rerun"
+    "authorLink": "https://danidev.itch.io/rerun",
+    "featured": true
   },
   {
     "id": 261,
@@ -2107,7 +2135,8 @@
     "cover": "{COVER_URL}/262.png",
     "url": "{HTML_URL}/262.html",
     "author": "Valve",
-    "authorLink": "https://www.valvesoftware.com/en/"
+    "authorLink": "https://www.valvesoftware.com/en/",
+    "featured": true
   },
   {
     "id": 263,
@@ -2115,7 +2144,8 @@
     "cover": "{COVER_URL}/263.png",
     "url": "{HTML_URL}/263.html",
     "author": "Id Software",
-    "authorLink": "https://www.idsoftware.com/en"
+    "authorLink": "https://www.idsoftware.com/en",
+    "featured": true
   },
   {
     "id": 264,
@@ -2139,15 +2169,17 @@
     "cover": "{COVER_URL}/266.png",
     "url": "{HTML_URL}/266.html",
     "author": "Luke Doukakis",
-    "authorLink": "https://store.steampowered.com/app/1482700/Speed_Stars/"
+    "authorLink": "https://store.steampowered.com/app/1482700/Speed_Stars/",
+    "featured": true
   },
   {
     "id": 267,
     "name": "Pizza Tower",
     "cover": "{COVER_URL}/267.png",
     "url": "{HTML_URL}/267.html",
-    "author": "Tour De Pizza",
-    "authorLink": "https://store.steampowered.com/app/2231450/Pizza_Tower/"
+    "author": "Tour De Pizza, BurnedPopcorn",
+    "authorLink": "https://store.steampowered.com/app/2231450/Pizza_Tower/",
+    "featured": true
   },
   {
     "id": 268,
@@ -2299,7 +2331,8 @@
     "cover": "{COVER_URL}/286.png",
     "url": "{HTML_URL}/286.html",
     "author": "Deep Root Interactive",
-    "authorLink": "https://store.steampowered.com/app/2124780/Endoparasitic/"
+    "authorLink": "https://store.steampowered.com/app/2124780/Endoparasitic/",
+    "featured": true
   },
   {
     "id": 287,
@@ -2659,7 +2692,8 @@
     "cover": "{COVER_URL}/331.png",
     "url": "{HTML_URL}/331.html",
     "author": "No Pressure Studios",
-    "authorLink": "https://www.nopressurestudios.com"
+    "authorLink": "https://www.nopressurestudios.com",
+    "featured": true
   },
   {
     "id": 332,
@@ -2827,7 +2861,8 @@
     "cover": "{COVER_URL}/352.png",
     "url": "{HTML_URL}/352.html",
     "author": "GD Colon",
-    "authorLink": "https://thirtydollar.website"
+    "authorLink": "https://thirtydollar.website",
+    "featured": true
   },
   {
     "id": 353,
@@ -2931,7 +2966,8 @@
     "cover": "{COVER_URL}/365.png",
     "url": "{HTML_URL}/365.html",
     "author": "JustPlay.LOL",
-    "authorLink": "https://play.google.com/store/apps/dev?id=7065081805875144950"
+    "authorLink": "https://play.google.com/store/apps/dev?id=7065081805875144950",
+    "featured": true
   },
   {
     "id": 366,
@@ -2971,7 +3007,8 @@
     "cover": "{COVER_URL}/370.png",
     "url": "{HTML_URL}/370.html",
     "author": "Tall Team",
-    "authorLink": "https://tall.team/"
+    "authorLink": "https://tall.team/",
+    "featured": true
   },
   {
     "id": 371,
@@ -3395,7 +3432,8 @@
     "cover": "{COVER_URL}/423.png",
     "url": "{HTML_URL}/423.html",
     "author": "LameDev",
-    "authorLink": "https://store.steampowered.com/app/3146520/WEBFISHING/"
+    "authorLink": "https://store.steampowered.com/app/3146520/WEBFISHING/",
+    "featured": true
   },
   {
     "id": 424,
@@ -3403,7 +3441,8 @@
     "cover": "{COVER_URL}/424.png",
     "url": "{HTML_URL}/424.html",
     "author": "Team Branches",
-    "authorLink": "https://teambranches.itch.io/bfdi-branches/"
+    "authorLink": "https://teambranches.itch.io/bfdi-branches/",
+    "featured": true
   },
   {
     "id": 425,
@@ -3411,6 +3450,7 @@
     "cover": "{COVER_URL}/425.png",
     "url": "{HTML_URL}/425.html",
     "author": "Toby Fox",
-    "authorLink": "https://deltarune.com"
+    "authorLink": "https://deltarune.com",
+    "featured": true
   }
 ]
