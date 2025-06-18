@@ -36,8 +36,7 @@
     "cover": "{COVER_URL}/3.png",
     "url": "{HTML_URL}/3.html",
     "author": "Dedra Games",
-    "authorLink": "https://dedragames.com",
-    "featured": true
+    "authorLink": "https://dedragames.com"
   },
   {
     "id": 4,
@@ -61,8 +60,7 @@
     "cover": "{COVER_URL}/6.png",
     "url": "{HTML_URL}/6.html",
     "author": "reunbozdo",
-    "authorLink": "https://reunbozdo.github.io",
-    "featured": true
+    "authorLink": "https://reunbozdo.github.io"
   },
   {
     "id": 7,
@@ -141,24 +139,24 @@
     "name": "Hide N Seek",
     "cover": "{COVER_URL}/16.png",
     "url": "{HTML_URL}/16.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Supersonic Studios LTD",
+    "authorLink": "https://play.google.com/store/apps/developer?id=Supersonic+Studios+LTD"
   },
   {
     "id": 17,
     "name": "Magic Tiles 3",
     "cover": "{COVER_URL}/17.png",
     "url": "{HTML_URL}/17.html",
-    "author": "",
-    "authorLink": ""
+    "author": "AmaNotes",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles"
   },
   {
     "id": 18,
     "name": "Stacky Dash",
     "cover": "{COVER_URL}/18.png",
     "url": "{HTML_URL}/18.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Supersonic Studios LTD",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.Born2Play.StackyDash"
   },
   {
     "id": 19,
@@ -173,88 +171,88 @@
     "name": "Tall Man Run",
     "cover": "{COVER_URL}/20.png",
     "url": "{HTML_URL}/20.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Supersonic Studios LTD",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
   },
   {
     "id": 21,
     "name": "Turbo Stars",
     "cover": "{COVER_URL}/21.png",
     "url": "{HTML_URL}/21.html",
-    "author": "",
-    "authorLink": ""
+    "author": "https://play.google.com/store/apps/details?id=com.turbo.stars",
+    "authorLink": "SayGames"
   },
   {
     "id": 22,
     "name": "Mob Control HTML5",
     "cover": "{COVER_URL}/22.png",
     "url": "{HTML_URL}/22.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Voodoo",
+    "authorLink": "https://voodoo.io"
   },
   {
     "id": 23,
     "name": "Pou",
     "cover": "{COVER_URL}/23.png",
     "url": "{HTML_URL}/23.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Zakeh",
+    "authorLink": "https://play.google.com/store/apps/details?id=me.pou.app"
   },
   {
     "id": 24,
     "name": "Crossy Road",
     "cover": "{COVER_URL}/24.png",
     "url": "{HTML_URL}/24.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Hipster Whale",
+    "authorLink": "https://www.hipsterwhale.com"
   },
   {
     "id": 25,
     "name": "Basket Battle",
     "cover": "{COVER_URL}/25.png",
     "url": "{HTML_URL}/25.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Supersonic Studios LTD",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.noorgames.basketbattle"
   },
   {
     "id": 26,
     "name": "Amaze",
     "cover": "{COVER_URL}/26.png",
     "url": "{HTML_URL}/26.html",
-    "author": "",
-    "authorLink": ""
+    "author": "CrazyLabs",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.crazylabs.amaze.game"
   },
   {
     "id": 27,
     "name": "Geometry Dash Lite",
     "cover": "{COVER_URL}/27.png",
     "url": "{HTML_URL}/27.html",
-    "author": "",
-    "authorLink": ""
+    "author": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite",
+    "authorLink": "RobTop Games"
   },
   {
     "id": 28,
     "name": "Basketball Frvr",
     "cover": "{COVER_URL}/28.png",
     "url": "{HTML_URL}/28.html",
-    "author": "",
-    "authorLink": ""
+    "author": "FRVR",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.frvr.basketball"
   },
   {
     "id": 29,
     "name": "Bazooka Boy",
     "cover": "{COVER_URL}/29.png",
     "url": "{HTML_URL}/29.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Supersonic Studios LTD",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.Lightneer.BazookaBoy"
   },
   {
     "id": 30,
     "name": "Bottle Jump 3D",
     "cover": "{COVER_URL}/30.png",
     "url": "{HTML_URL}/30.html",
-    "author": "",
-    "authorLink": ""
+    "author": "CASUAL AZUR GAMES",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.games.bottle"
   },
   {
     "id": 31,
@@ -278,8 +276,7 @@
     "cover": "{COVER_URL}/33.png",
     "url": "{HTML_URL}/33.html",
     "author": "",
-    "authorLink": "",
-    "featured": true
+    "authorLink": ""
   },
   {
     "id": 34,
@@ -615,8 +612,7 @@
     "cover": "{COVER_URL}/75.png",
     "url": "{HTML_URL}/75.html",
     "author": "",
-    "authorLink": "",
-    "featured": true
+    "authorLink": ""
   },
   {
     "id": 76,
@@ -736,8 +732,7 @@
     "cover": "{COVER_URL}/90.png",
     "url": "{HTML_URL}/90.html",
     "author": "",
-    "authorLink": "",
-    "featured": true
+    "authorLink": ""
   },
   {
     "id": 91,
@@ -1185,144 +1180,144 @@
     "name": "8 Ball Classic",
     "cover": "{COVER_URL}/146.png",
     "url": "{HTML_URL}/146.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Famobi",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.eightballbilliardsclassic"
   },
   {
     "id": 147,
     "name": "Angry Birds Showdown",
     "cover": "{COVER_URL}/147.png",
     "url": "{HTML_URL}/147.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Rovio Entertainment",
+    "authorLink": "https://www.rovio.com"
   },
   {
     "id": 148,
     "name": "Archery World Tour",
     "cover": "{COVER_URL}/148.png",
     "url": "{HTML_URL}/148.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Famobi",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.archeryworldtour"
   },
   {
     "id": 149,
     "name": "Ball Blast",
     "cover": "{COVER_URL}/149.png",
     "url": "{HTML_URL}/149.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Voodoo",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.nomonkeys.ballblast"
   },
   {
     "id": 150,
     "name": "Cannon Balls 3D",
     "cover": "{COVER_URL}/150.png",
     "url": "{HTML_URL}/150.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Famobi",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.cannonballs3d"
   },
   {
     "id": 151,
     "name": "Chess Classic",
     "cover": "{COVER_URL}/151.png",
     "url": "{HTML_URL}/151.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Famobi",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.chessclassic"
   },
   {
     "id": 152,
     "name": "Draw the Line",
     "cover": "{COVER_URL}/152.png",
     "url": "{HTML_URL}/152.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Supersonic Studios LTD",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.friendsgamesincubator.drawtheline"
   },
   {
     "id": 153,
     "name": "Flappy Dunk",
     "cover": "{COVER_URL}/153.png",
     "url": "{HTML_URL}/153.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Voodoo",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.acidcousins.fdunk"
   },
   {
     "id": 154,
     "name": "Fork n Sausage",
     "cover": "{COVER_URL}/154.png",
     "url": "{HTML_URL}/154.html",
-    "author": "",
-    "authorLink": ""
+    "author": "SayGames",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.kadka.forknsausage"
   },
   {
     "id": 155,
     "name": "Guess Their Answer",
     "cover": "{COVER_URL}/155.png",
     "url": "{HTML_URL}/155.html",
-    "author": "",
-    "authorLink": ""
+    "author": "TapNation",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.qoni.guesstheiranswer"
   },
   {
     "id": 156,
     "name": "Harvest.io",
     "cover": "{COVER_URL}/156.png",
     "url": "{HTML_URL}/156.html",
-    "author": "",
-    "authorLink": ""
+    "author": "CASUAL AZUR GAMES",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.harvest.io"
   },
   {
     "id": 157,
     "name": "Hill Climb Racing Lite",
     "cover": "{COVER_URL}/157.png",
     "url": "{HTML_URL}/157.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Fingersoft",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb"
   },
   {
     "id": 158,
     "name": "Pac-Man Superfast",
     "cover": "{COVER_URL}/158.png",
     "url": "{HTML_URL}/158.html",
-    "author": "",
-    "authorLink": ""
+    "author": "RedFox Games",
+    "authorLink": "https://www.playredfox.com"
   },
   {
     "id": 159,
     "name": "Parking Rush",
     "cover": "{COVER_URL}/159.png",
     "url": "{HTML_URL}/159.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Nine&Nine",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.tianninenine.parkingrush"
   },
   {
     "id": 160,
     "name": "Race Master 3D",
     "cover": "{COVER_URL}/160.png",
     "url": "{HTML_URL}/160.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Beresnev Games",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.easygames.race"
   },
   {
     "id": 161,
     "name": "State.io",
     "cover": "{COVER_URL}/161.png",
     "url": "{HTML_URL}/161.html",
-    "author": "",
-    "authorLink": ""
+    "author": "CASUAL AZUR GAMES",
+    "authorLink": "https://play.google.com/store/apps/details?id=io.state.fight"
   },
   {
     "id": 162,
     "name": "Tower Crash 3D",
     "cover": "{COVER_URL}/162.png",
     "url": "{HTML_URL}/162.html",
-    "author": "",
-    "authorLink": ""
+    "author": "Famobi",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.famobi.towercrash3d"
   },
   {
     "id": 163,
     "name": "Trivia Crack",
     "cover": "{COVER_URL}/163.png",
     "url": "{HTML_URL}/163.html",
-    "author": "",
-    "authorLink": ""
+    "author": "etermax",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite"
   },
   {
     "id": 164,
@@ -1338,9 +1333,8 @@
     "name": "Cheese Chompers 3D",
     "cover": "{COVER_URL}/165.png",
     "url": "{HTML_URL}/165.html",
-    "author": "cheesechompers3d",
-    "authorLink": "https://cheesechompers3d.itch.io/cheese-chompers-3d",
-    "featured": true
+    "author": "NavaNoid",
+    "authorLink": "https://cheesechompers3d.itch.io/cheese-chompers-3d"
   },
   {
     "id": 166,
@@ -1613,8 +1607,7 @@
     "cover": "{COVER_URL}/198.png",
     "url": "{HTML_URL}/198.html",
     "author": "coweggs",
-    "authorLink": "https://coweggs.itch.io/slope-plus",
-    "featured": true
+    "authorLink": "https://coweggs.itch.io/slope-plus"
   },
   {
     "id": 199,
@@ -2966,8 +2959,7 @@
     "cover": "{COVER_URL}/365.png",
     "url": "{HTML_URL}/365.html",
     "author": "JustPlay.LOL",
-    "authorLink": "https://play.google.com/store/apps/dev?id=7065081805875144950",
-    "featured": true
+    "authorLink": "https://play.google.com/store/apps/dev?id=7065081805875144950"
   },
   {
     "id": 366,
@@ -3007,8 +2999,7 @@
     "cover": "{COVER_URL}/370.png",
     "url": "{HTML_URL}/370.html",
     "author": "Tall Team",
-    "authorLink": "https://tall.team/",
-    "featured": true
+    "authorLink": "https://tall.team/"
   },
   {
     "id": 371,
