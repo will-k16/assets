@@ -3442,5 +3442,13 @@
     "author": "Toby Fox",
     "authorLink": "https://deltarune.com",
     "featured": true
+  },
+  {
+    "id": 426,
+    "name": "Andy's Apple Farm",
+    "cover": "{COVER_URL}/426.png",
+    "url": "{HTML_URL}/426.html",
+    "author": "M36games",
+    "authorLink": "https://m36games.itch.io/applefarm"
   }
 ]
