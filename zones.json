@@ -3450,5 +3450,13 @@
     "url": "{HTML_URL}/426.html",
     "author": "M36games",
     "authorLink": "https://m36games.itch.io/applefarm"
+  },
+  {
+    "id": 427,
+    "name": "OMORI",
+    "cover": "{COVER_URL}/427.png",
+    "url": "{HTML_URL}/427.html",
+    "author": "Omocat",
+    "authorLink": "https://omocat.com"
   }
 ]
