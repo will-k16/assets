@@ -3458,5 +3458,13 @@
     "url": "{HTML_URL}/427.html",
     "author": "Omocat",
     "authorLink": "https://omocat.com"
+  },
+  {
+    "id": 428,
+    "name": "Five Nights at Freddy's 4: Halloween",
+    "cover": "{COVER_URL}/428.png",
+    "url": "{HTML_URL}/428.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com"
   }
 ]
