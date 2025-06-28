@@ -2055,14 +2055,6 @@
     "featured": true
   },
   {
-    "id": 254,
-    "name": "Balatro",
-    "cover": "{COVER_URL}/254.png",
-    "url": "{HTML_URL}/254.html",
-    "author": "LocalThunk",
-    "authorLink": "https://localthunk.com"
-  },
-  {
     "id": 255,
     "name": "Crazy Chicken 3D",
     "cover": "{COVER_URL}/255.png",
