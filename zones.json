@@ -3458,5 +3458,13 @@
     "url": "{HTML_URL}/428.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com"
+  },
+  {
+    "id": 429,
+    "name": "Code Editor",
+    "cover": "{COVER_URL}/429.png",
+    "url": "{HTML_URL}/429.html",
+    "author": "gn-math",
+    "authorLink": "https://gn-math.github.io"
   }
 ]
