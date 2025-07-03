@@ -3482,5 +3482,13 @@
     "url": "{HTML_URL}/431.html",
     "author": "Diamond Games",
     "authorLink": "https://www.crazygames.com/game/99-balls"
+  },
+  {
+    "id": 432,
+    "name": "Abandoned",
+    "cover": "{COVER_URL}/432.png",
+    "url": "{HTML_URL}/432.html",
+    "author": "krutovig",
+    "authorLink": "https://www.kongregate.com/games/krutovigor/abandoned"
   }
 ]
