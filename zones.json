@@ -3466,5 +3466,13 @@
     "url": "{HTML_URL}/429.html",
     "author": "gn-math",
     "authorLink": "https://gn-math.github.io"
+  },
+  {
+    "id": 430,
+    "name": "10 Minutes Till Dawn",
+    "cover": "{COVER_URL}/430.png",
+    "url": "{HTML_URL}/430.html",
+    "author": "flanne",
+    "authorLink": "https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/"
   }
 ]
