@@ -3474,5 +3474,13 @@
     "url": "{HTML_URL}/430.html",
     "author": "flanne",
     "authorLink": "https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/"
+  },
+  {
+    "id": 431,
+    "name": "99 Balls",
+    "cover": "{COVER_URL}/431.png",
+    "url": "{HTML_URL}/431.html",
+    "author": "Diamond Games",
+    "authorLink": "https://www.crazygames.com/game/99-balls"
   }
 ]
