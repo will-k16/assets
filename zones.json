@@ -3490,5 +3490,13 @@
     "url": "{HTML_URL}/432.html",
     "author": "krutovig",
     "authorLink": "https://www.kongregate.com/games/krutovigor/abandoned"
+  },
+  {
+    "id": 433,
+    "name": "Yume Nikki",
+    "cover": "{COVER_URL}/433.png",
+    "url": "{HTML_URL}/433.html",
+    "author": "kikiyama",
+    "authorLink": "https://store.steampowered.com/app/650700/Yume_Nikki/"
   }
 ]
