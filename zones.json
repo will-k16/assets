@@ -3498,5 +3498,13 @@
     "url": "{HTML_URL}/433.html",
     "author": "kikiyama",
     "authorLink": "https://store.steampowered.com/app/650700/Yume_Nikki/"
+  },
+  {
+    "id": 434,
+    "name": "God's Flesh",
+    "cover": "{COVER_URL}/434.png",
+    "url": "{HTML_URL}/434.html",
+    "author": "Glompyy",
+    "authorLink": "https://glompyy.itch.io/gods-flesh"
   }
 ]
