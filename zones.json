@@ -3506,5 +3506,13 @@
     "url": "{HTML_URL}/434.html",
     "author": "Glompyy",
     "authorLink": "https://glompyy.itch.io/gods-flesh"
+  },
+  {
+    "id": 435,
+    "name": "A Small World Cup",
+    "cover": "{COVER_URL}/435.png",
+    "url": "{HTML_URL}/435.html",
+    "author": "rujogames",
+    "authorLink": "https://rujogames.itch.io/a-small-world-cup"
   }
 ]
