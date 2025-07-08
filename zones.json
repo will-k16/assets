@@ -3514,5 +3514,13 @@
     "url": "{HTML_URL}/435.html",
     "author": "rujogames",
     "authorLink": "https://rujogames.itch.io/a-small-world-cup"
+  },
+  {
+    "id": 436,
+    "name": "Awesome Tanks",
+    "cover": "{COVER_URL}/436.png",
+    "url": "{HTML_URL}/436.html",
+    "author": "coolmathgames",
+    "authorLink": "https://www.coolmathgames.com/0-awesome-tanks"
   }
 ]
