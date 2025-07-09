@@ -3449,7 +3449,8 @@
     "cover": "{COVER_URL}/427.png",
     "url": "{HTML_URL}/427.html",
     "author": "Omocat",
-    "authorLink": "https://omocat.com"
+    "authorLink": "https://omocat.com",
+    "featured": true
   },
   {
     "id": 428,
@@ -3497,7 +3498,8 @@
     "cover": "{COVER_URL}/433.png",
     "url": "{HTML_URL}/433.html",
     "author": "kikiyama",
-    "authorLink": "https://store.steampowered.com/app/650700/Yume_Nikki/"
+    "authorLink": "https://store.steampowered.com/app/650700/Yume_Nikki/",
+    "featured": true
   },
   {
     "id": 434,
@@ -3522,5 +3524,13 @@
     "url": "{HTML_URL}/436.html",
     "author": "coolmathgames",
     "authorLink": "https://www.coolmathgames.com/0-awesome-tanks"
+  },
+  {
+    "id": 437,
+    "name": "Bouncemasters",
+    "cover": "{COVER_URL}/437.png",
+    "url": "{HTML_URL}/437.html",
+    "author": "Azur Games, Playgendary",
+    "authorLink": "https://azurgames.com"
   }
 ]
