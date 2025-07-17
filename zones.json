@@ -3532,5 +3532,13 @@
     "url": "{HTML_URL}/437.html",
     "author": "Azur Games, Playgendary",
     "authorLink": "https://azurgames.com"
+  },
+  {
+    "id": 438,
+    "name": "Awesome Tanks 2",
+    "cover": "{COVER_URL}/438.png",
+    "url": "{HTML_URL}/438.html",
+    "author": "coolmathgames",
+    "authorLink": "https://www.coolmathgames.com/0-awesome-tanks-2"
   }
 ]
