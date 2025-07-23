@@ -3548,5 +3548,13 @@
     "url": "{HTML_URL}/439.html",
     "author": "justaliendev",
     "authorLink": "https://www.crazygames.com/game/bank-robbery-2"
+  },
+  {
+    "id": 440,
+    "name": "Celeste PICO",
+    "cover": "{COVER_URL}/440.png",
+    "url": "{HTML_URL}/440.html",
+    "author": "Matt Thorson and Noel Berry",
+    "authorLink": "https://www.lexaloffle.com/bbs/?tid=2145"
   }
 ]
