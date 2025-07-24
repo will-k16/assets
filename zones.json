@@ -3418,15 +3418,6 @@
     "featured": true
   },
   {
-    "id": 424,
-    "name": "BFDI: Branches",
-    "cover": "{COVER_URL}/424.png",
-    "url": "{HTML_URL}/424.html",
-    "author": "Team Branches",
-    "authorLink": "https://teambranches.itch.io/bfdi-branches/",
-    "featured": true
-  },
-  {
     "id": 425,
     "name": "Deltarune",
     "cover": "{COVER_URL}/425.png",
