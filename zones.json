@@ -3586,7 +3586,8 @@
     "cover": "{COVER_URL}/445.png",
     "url": "{HTML_URL}/445.html",
     "author": "Con Man Games, SmashGames and Sean Young",
-    "authorLink": "https://store.steampowered.com/app/589590/Kindergarten"
+    "authorLink": "https://store.steampowered.com/app/589590/Kindergarten",
+    "featured": true
   },
   {
     "id": 446,
@@ -3594,7 +3595,8 @@
     "cover": "{COVER_URL}/446.png",
     "url": "{HTML_URL}/446.html",
     "author": "Con Man Games, SmashGames and Sean Young",
-    "authorLink": "https://store.steampowered.com/app/1067850/Kindergarten_2"
+    "authorLink": "https://store.steampowered.com/app/1067850/Kindergarten_2",
+    "featured": true
   },
   {
     "id": 447,
