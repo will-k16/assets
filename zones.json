@@ -3603,5 +3603,21 @@
     "url": "{HTML_URL}/447.html",
     "author": "TamaniDamani",
     "authorLink": "https://tamanidamani.itch.io/nijikas-ahoge"
+  },
+  {
+    "id": 448,
+    "name": "Aquapark.io",
+    "cover": "{COVER_URL}/448.png",
+    "url": "{HTML_URL}/448.html",
+    "author": "Voodoo",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.cassette.aquapark"
+  },
+  {
+    "id": 449,
+    "name": "City Smash",
+    "cover": "{COVER_URL}/449.png",
+    "url": "{HTML_URL}/449.html",
+    "author": "Paradyme Games",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.paradyme.citysmash"
   }
 ]
