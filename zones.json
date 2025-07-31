@@ -3547,5 +3547,61 @@
     "url": "{HTML_URL}/440.html",
     "author": "Matt Thorson and Noel Berry",
     "authorLink": "https://www.lexaloffle.com/bbs/?tid=2145"
+  },
+  {
+    "id": 441,
+    "name": "Kitty Toy",
+    "cover": "{COVER_URL}/441.png",
+    "url": "{HTML_URL}/441.html",
+    "author": "Rakqoi",
+    "authorLink": "https://rakqoi.itch.io/kittytoy"
+  },
+  {
+    "id": 442,
+    "name": "Infinimoes",
+    "cover": "{COVER_URL}/442.png",
+    "url": "{HTML_URL}/442.html",
+    "author": "Werxzy",
+    "authorLink": "https://werxzy.itch.io/infinimoes"
+  },
+  {
+    "id": 443,
+    "name": "Adventure Drivers",
+    "cover": "{COVER_URL}/443.png",
+    "url": "{HTML_URL}/443.html",
+    "author": "Domas Kazragis",
+    "authorLink": "https://poki.com/en/g/adventure-drivers"
+  },
+  {
+    "id": 444,
+    "name": "Ages of Conflict",
+    "cover": "{COVER_URL}/444.png",
+    "url": "{HTML_URL}/444.html",
+    "author": "JoySpark Games",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.JoySparkGames.AgesofConflict"
+  },
+  {
+    "id": 445,
+    "name": "Kindergarten",
+    "cover": "{COVER_URL}/445.png",
+    "url": "{HTML_URL}/445.html",
+    "author": "Con Man Games, SmashGames and Sean Young",
+    "authorLink": "https://store.steampowered.com/app/589590/Kindergarten"
+  },
+  {
+    "id": 446,
+    "name": "Kindergarten 2",
+    "cover": "{COVER_URL}/446.png",
+    "url": "{HTML_URL}/446.html",
+    "author": "Con Man Games, SmashGames and Sean Young",
+    "authorLink": "https://store.steampowered.com/app/1067850/Kindergarten_2"
+  },
+  {
+    "id": 447,
+    "name": "Nijika's Ahoge",
+    "cover": "{COVER_URL}/447.png",
+    "url": "{HTML_URL}/447.html",
+    "author": "TamaniDamani",
+    "authorLink": "https://tamanidamani.itch.io/nijikas-ahoge"
   }
 ]
