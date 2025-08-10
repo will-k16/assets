@@ -3653,5 +3653,13 @@
     "url": "{HTML_URL}/453.html",
     "author": "Maksim Chmutov",
     "authorLink": "https://booleet.itch.io/station-saturn"
+  },
+  {
+    "id": 454,
+    "name": "BLOODMONEY!",
+    "cover": "{COVER_URL}/454.png",
+    "url": "{HTML_URL}/454.html",
+    "author": "SHROOMYCHRIST-STUDIOS",
+    "authorLink": "https://shroomychrist-studios.itch.io/bloodmoney"
   }
 ]
