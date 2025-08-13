@@ -3661,5 +3661,13 @@
     "url": "{HTML_URL}/454.html",
     "author": "SHROOMYCHRIST-STUDIOS",
     "authorLink": "https://shroomychrist-studios.itch.io/bloodmoney"
+  },
+  {
+    "id": 455,
+    "name": "BERGENTRUCK 201x",
+    "cover": "{COVER_URL}/455.png",
+    "url": "{HTML_URL}/455.html",
+    "author": "Paledoptera",
+    "authorLink": "https://gamejolt.com/games/bergentruck/1007556"
   }
 ]
