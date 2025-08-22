@@ -3709,5 +3709,29 @@
     "url": "{HTML_URL}/460.html",
     "author": "Rayll",
     "authorLink": "https://store.steampowered.com/app/1671340/Fears_to_Fathom__Home_Alone"
+  },
+  {
+    "id": 461,
+    "name": "Slither.io",
+    "cover": "{COVER_URL}/461.png",
+    "url": "{HTML_URL}/461.html",
+    "author": "slither.io",
+    "authorLink": "http://slither.com/io"
+  },
+  {
+    "id": 462,
+    "name": "DEAD PLATE",
+    "cover": "{COVER_URL}/462.png",
+    "url": "{HTML_URL}/462.html",
+    "author": "racheldrawsthis",
+    "authorLink": "https://racheldrawsthis.itch.io/dead-plate"
+  },
+  {
+    "id": 463,
+    "name": "Lacey's Flash Games",
+    "cover": "{COVER_URL}/463.png",
+    "url": "{HTML_URL}/463.html",
+    "author": "ghosttundra, Euroclipse, Brand New Groove",
+    "authorLink": "https://laceysflashgames.itch.io/laceys-flash-games"
   }
 ]
