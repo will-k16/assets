@@ -3733,5 +3733,13 @@
     "url": "{HTML_URL}/463.html",
     "author": "ghosttundra, Euroclipse, Brand New Groove",
     "authorLink": "https://laceysflashgames.itch.io/laceys-flash-games"
+  },
+  {
+    "id": 464,
+    "name": "Choppy Orc",
+    "cover": "{COVER_URL}/464.png",
+    "url": "{HTML_URL}/464.html",
+    "author": "eddynardo",
+    "authorLink": "https://eddynardo.com/games/choppy-orc/"
   }
 ]
