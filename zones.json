@@ -3741,5 +3741,29 @@
     "url": "{HTML_URL}/464.html",
     "author": "eddynardo",
     "authorLink": "https://eddynardo.com/games/choppy-orc/"
+  },
+  {
+    "id": 465,
+    "name": "Cuphead",
+    "cover": "{COVER_URL}/465.png",
+    "url": "{HTML_URL}/465.html",
+    "author": "Studio MDHR Entertainment Inc",
+    "authorLink": "https://store.steampowered.com/app/268910/Cuphead"
+  },
+  {
+    "id": 466,
+    "name": "Baldi's Basics Classic Remastered",
+    "cover": "{COVER_URL}/466.png",
+    "url": "{HTML_URL}/466.html",
+    "author": "Basically Games",
+    "authorLink": "https://basically-games.itch.io/baldis-basics-classic-remastered"
+  },
+  {
+    "id": 467,
+    "name": "Baldi's Basics Plus",
+    "cover": "{COVER_URL}/467.png",
+    "url": "{HTML_URL}/467.html",
+    "author": "Basically Games",
+    "authorLink": "https://basically-games.itch.io/baldis-basics-plus"
   }
 ]
