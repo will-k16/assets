@@ -11,8 +11,7 @@
     "cover": "{COVER_URL}/0.png",
     "url": "{HTML_URL}/0.html",
     "author": "Azur Games, Playgendary",
-    "authorLink": "https://azurgames.com",
-    "featured": true
+    "authorLink": "https://azurgames.com"
   },
   {
     "id": 1,
@@ -948,8 +947,7 @@
     "cover": "{COVER_URL}/117.png",
     "url": "{HTML_URL}/117.html",
     "author": "",
-    "authorLink": "",
-    "featured": true
+    "authorLink": ""
   },
   {
     "id": 118,
@@ -1325,8 +1323,7 @@
     "cover": "{COVER_URL}/164.png",
     "url": "{HTML_URL}/164-temp2.html",
     "author": "4nn4t4t",
-    "authorLink": "https://4nn4t4t.itch.io/crazycattle3d",
-    "featured": true
+    "authorLink": "https://4nn4t4t.itch.io/crazycattle3d"
   },
   {
     "id": 165,
@@ -1563,8 +1560,7 @@
     "cover": "{COVER_URL}/193.png",
     "url": "{HTML_URL}/193.html",
     "author": "Pixelliminal",
-    "authorLink": "https://pixeliminal.itch.io/do-not-take-this-cat-home",
-    "featured": true
+    "authorLink": "https://pixeliminal.itch.io/do-not-take-this-cat-home"
   },
   {
     "id": 194,
@@ -2084,8 +2080,7 @@
     "cover": "{COVER_URL}/258.png",
     "url": "{HTML_URL}/258.html",
     "author": "Garrett McKay",
-    "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys",
-    "featured": true
+    "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys"
   },
   {
     "id": 259,
@@ -2315,8 +2310,7 @@
     "cover": "{COVER_URL}/286.png",
     "url": "{HTML_URL}/286.html",
     "author": "Deep Root Interactive",
-    "authorLink": "https://store.steampowered.com/app/2124780/Endoparasitic/",
-    "featured": true
+    "authorLink": "https://store.steampowered.com/app/2124780/Endoparasitic/"
   },
   {
     "id": 287,
@@ -2845,8 +2839,7 @@
     "cover": "{COVER_URL}/352.png",
     "url": "{HTML_URL}/352.html",
     "author": "GD Colon",
-    "authorLink": "https://thirtydollar.website",
-    "featured": true
+    "authorLink": "https://thirtydollar.website"
   },
   {
     "id": 353,
@@ -3748,7 +3741,8 @@
     "cover": "{COVER_URL}/465.png",
     "url": "{HTML_URL}/465.html",
     "author": "Studio MDHR Entertainment Inc",
-    "authorLink": "https://store.steampowered.com/app/268910/Cuphead"
+    "authorLink": "https://store.steampowered.com/app/268910/Cuphead",
+    "featured": true
   },
   {
     "id": 466,
@@ -3764,7 +3758,8 @@
     "cover": "{COVER_URL}/467.png",
     "url": "{HTML_URL}/467.html",
     "author": "Basically Games",
-    "authorLink": "https://basically-games.itch.io/baldis-basics-plus"
+    "authorLink": "https://basically-games.itch.io/baldis-basics-plus",
+    "featured": true
   },
   {
     "id": 468,
@@ -3772,6 +3767,7 @@
     "cover": "{COVER_URL}/468.png",
     "url": "{HTML_URL}/468.html",
     "author": "Team Cherry",
-    "authorLink": "https://store.steampowered.com/app/367520/Hollow_Knight"
+    "authorLink": "https://store.steampowered.com/app/367520/Hollow_Knight",
+    "featured": true
   }
 ]
