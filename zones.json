@@ -3801,5 +3801,13 @@
     "url": "{HTML_URL}/472.html",
     "author": "jcw87",
     "authorLink": "https://jcw87.github.io/c2-sans-fight/"
+  },
+  {
+    "id": 473,
+    "name": "Spacebar Clicker",
+    "cover": "{COVER_URL}/473.png",
+    "url": "{HTML_URL}/473.html",
+    "author": "Bruno Croci",
+    "authorLink": "https://bruno.croci.me"
   }
 ]
