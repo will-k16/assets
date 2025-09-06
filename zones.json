@@ -3785,5 +3785,13 @@
     "url": "{HTML_URL}/470.html",
     "author": "Marko Pusenjak",
     "authorLink": "https://play.google.com/store/apps/details?id=com.lima.doodlejump&hl=en_US&pli=1"
+  },
+  {
+    "id": 471,
+    "name": "Madness Combat: Project Nexus (classic)",
+    "cover": "{COVER_URL}/471.png",
+    "url": "{HTML_URL}/471.html",
+    "author": "Krinkels, The-Swain, cheshyre, Luis, Rebel666",
+    "authorLink": "https://www.newgrounds.com/portal/view/592473"
   }
 ]
