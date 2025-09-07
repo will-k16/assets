@@ -3809,5 +3809,13 @@
     "url": "{HTML_URL}/473.html",
     "author": "Bruno Croci",
     "authorLink": "https://bruno.croci.me"
+  },
+  {
+    "id": 474,
+    "name": "Friday Night Funkin’ V.S. Whitty",
+    "cover": "{COVER_URL}/474.png",
+    "url": "{HTML_URL}/474.html",
+    "author": "Nate Anim8",
+    "authorLink": "https://gamebanana.com/mods/44214"
   }
 ]
