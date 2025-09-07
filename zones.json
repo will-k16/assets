@@ -3817,5 +3817,13 @@
     "url": "{HTML_URL}/474.html",
     "author": "Nate Anim8",
     "authorLink": "https://gamebanana.com/mods/44214"
+  },
+  {
+    "id": 475,
+    "name": "Friday Night Funkin B-Sides",
+    "cover": "{COVER_URL}/475.png",
+    "url": "{HTML_URL}/475.html",
+    "author": "Rozebud",
+    "authorLink": "https://gamebanana.com/mods/42724"
   }
 ]
