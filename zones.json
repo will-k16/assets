@@ -3835,11 +3835,19 @@
     "authorLink": "https://gamebanana.com/mods/44225"
   },
   {
-    "id": 476,
+    "id": 477,
     "name": "Friday Night Funkin Vs. Hatsune Miku",
     "cover": "{COVER_URL}/477.png",
     "url": "{HTML_URL}/477.html",
     "author": "evidal etc",
     "authorLink": "https://gamebanana.com/mods/44307"
+  },
+  {
+    "id": 478,
+    "name": "Friday Night Funkin Neo",
+    "cover": "{COVER_URL}/478.png",
+    "url": "{HTML_URL}/478.html",
+    "author": "JellyFishedm etc",
+    "authorLink": "https://gamebanana.com/mods/44230"
   }
 ]
